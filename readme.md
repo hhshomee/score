@@ -4,7 +4,7 @@ We propose a multi-dimensional, reference-free evaluation framework that  assess
  We introduce a curated dataset of 1,412 domain-specific question–answer pairs spanning 40 professional roles and seven natural hazard types to support systematic evaluation .
 
 
-<img width="2168" alt="main_fig" src="./specificity.jpg">
+<!-- <img width="2168" alt="main_fig" src="./specificity.jpg"> -->
 
 
 
