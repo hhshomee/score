@@ -20,5 +20,3 @@ python specificity.py --input results/answers/answers.csv --output results/speci
 python answer_relevance.py --input results/answers/answers.csv --output results/specificity.csv --limit 1500 --llm_type openai--llm_model gpt4o
 ```
 
-
-```
