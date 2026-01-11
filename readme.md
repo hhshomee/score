@@ -7,7 +7,7 @@ We propose a multi-dimensional, reference-free evaluation framework that  assess
 <img width="2168" alt="main_fig" src="[https://github.com/hhshomee/score/](https://github.com/hhshomee/score/blob/main/specificity.pdf)">
 
 ## Data
-:green_book: Questions, Answers, and all the specificity results can be viewed and downloaded [here](https://huggingface.co/datasets/AI4Patents/IMPACT/tree/main).
+:green_book: Questions, Answers, and all the specificity results can be viewed and downloaded [here](https://github.com/hhshomee/score/tree/main/results).
 
 
 ## Specificity
