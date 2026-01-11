@@ -1,0 +1,2969 @@
+STATE,COUNTY,RISK_SCORE,HAZARD
+Alabama,Madison,91.95036589245944,Cold Wave
+Alabama,DeKalb,88.5141584473433,Cold Wave
+Alabama,Jackson,85.49156856506522,Cold Wave
+Alabama,Morgan,81.57811008590518,Cold Wave
+Alabama,Cullman,79.8281896277442,Cold Wave
+Alabama,Lauderdale,78.39643652561249,Cold Wave
+Alabama,Limestone,77.69646834234808,Cold Wave
+Alabama,Marshall,73.08304167992364,Cold Wave
+Alabama,Colbert,69.93318485523386,Cold Wave
+Alabama,Lawrence,66.1151765828826,Cold Wave
+Alaska,Fairbanks North Star,94.55933821189946,Cold Wave
+Alaska,North Slope,92.20489977728286,Cold Wave
+Alaska,Yukon-Koyukuk,76.16926503340757,Cold Wave
+Alaska,Bethel,61.883550747693285,Cold Wave
+Alaska,Northwest Arctic,59.17912822144448,Cold Wave
+Alaska,Nome,51.7021953547566,Cold Wave
+Alaska,Southeast Fairbanks,40.2163538020999,Cold Wave
+Alaska,Skagway,32.42125357938275,Cold Wave
+Alaska,Chugach,31.657651924912507,Cold Wave
+Alaska,Denali,31.24403436207445,Cold Wave
+Arizona,Coconino,67.99236398345529,Cold Wave
+Arizona,Navajo,42.9207763283487,Cold Wave
+Arizona,Apache,39.51638561883551,Cold Wave
+Arizona,Greenlee,30.38498250079542,Cold Wave
+Arizona,Cochise,29.81228125994273,Cold Wave
+Arizona,Graham,29.430480432707608,Cold Wave
+Arizona,Pima,29.207763283487115,Cold Wave
+Arizona,Pinal,29.14412981228126,Cold Wave
+Arizona,Gila,28.635062042634424,Cold Wave
+Arizona,Yavapai,28.2532612153993,Cold Wave
+Arkansas,Sebastian,98.21826280623608,Cold Wave
+Arkansas,Benton,97.48647788736876,Cold Wave
+Arkansas,Washington,96.91377664651607,Cold Wave
+Arkansas,Pulaski,96.78650970410436,Cold Wave
+Arkansas,Carroll,95.70474069360485,Cold Wave
+Arkansas,Pope,94.52752147629653,Cold Wave
+Arkansas,Crawford,94.01845370664968,Cold Wave
+Arkansas,Madison,93.63665287941457,Cold Wave
+Arkansas,Faulkner,93.00031816735603,Cold Wave
+Arkansas,Sharp,91.44129812281261,Cold Wave
+California,Modoc,60.48361438116449,Cold Wave
+California,Siskiyou,55.20203627107859,Cold Wave
+California,Shasta,27.648743238943684,Cold Wave
+California,Lassen,27.45784282532612,Cold Wave
+California,Mono,27.330575882914417,Cold Wave
+California,Inyo,26.91695832007636,Cold Wave
+California,Alameda,0.0,Cold Wave
+California,Alpine,0.0,Cold Wave
+California,Amador,0.0,Cold Wave
+California,Butte,0.0,Cold Wave
+Colorado,Weld,99.14094813872096,Cold Wave
+Colorado,Broomfield,98.82278078269168,Cold Wave
+Colorado,Larimer,98.63188036907412,Cold Wave
+Colorado,El Paso,98.4727966910595,Cold Wave
+Colorado,Douglas,98.18644607063317,Cold Wave
+Colorado,Denver,97.9000954502068,Cold Wave
+Colorado,Yuma,97.83646197900096,Cold Wave
+Colorado,Adams,94.4638880050907,Cold Wave
+Colorado,Kit Carson,94.24117085587021,Cold Wave
+Colorado,Arapahoe,92.74578428253261,Cold Wave
+Connecticut,Hartford,73.14667515112949,Cold Wave
+Connecticut,New Haven,57.6837416481069,Cold Wave
+Connecticut,Fairfield,57.14285714285714,Cold Wave
+Connecticut,Litchfield,51.47947820553611,Cold Wave
+Connecticut,New London,42.25262488068723,Cold Wave
+Connecticut,Middlesex,37.5119312758511,Cold Wave
+Connecticut,Tolland,37.06649697741012,Cold Wave
+Connecticut,Windham,36.71651288577792,Cold Wave
+Delaware,Kent,0.0,Cold Wave
+Delaware,New Castle,0.0,Cold Wave
+Delaware,Sussex,0.0,Cold Wave
+District of Columbia,District of Columbia,59.02004454342984,Cold Wave
+Florida,Brevard,99.01368119630925,Cold Wave
+Florida,Seminole,98.69551384027999,Cold Wave
+Florida,Polk,98.37734648425072,Cold Wave
+Florida,Osceola,98.15462933503024,Cold Wave
+Florida,Orange,97.45466115176583,Cold Wave
+Florida,St. Lucie,97.23194400254533,Cold Wave
+Florida,Pasco,96.97741011772192,Cold Wave
+Florida,Miami-Dade,95.4502068087814,Cold Wave
+Florida,Manatee,95.25930639516386,Cold Wave
+Florida,Volusia,95.10022271714922,Cold Wave
+Georgia,Gilmer,92.80941775373849,Cold Wave
+Georgia,Murray,89.27776010181356,Cold Wave
+Georgia,White,82.53261215399299,Cold Wave
+Georgia,Cherokee,82.34171174037543,Cold Wave
+Georgia,Whitfield,79.00095450206808,Cold Wave
+Georgia,Gordon,78.17371937639199,Cold Wave
+Georgia,Lumpkin,76.61469933184856,Cold Wave
+Georgia,Walker,75.88291441298122,Cold Wave
+Georgia,Bartow,75.8510976773783,Cold Wave
+Georgia,Pickens,74.61024498886414,Cold Wave
+Hawaii,Hawaii,0.0,Cold Wave
+Hawaii,Honolulu,0.0,Cold Wave
+Hawaii,Kalawao,0.0,Cold Wave
+Hawaii,Kauai,0.0,Cold Wave
+Hawaii,Maui,0.0,Cold Wave
+Idaho,Kootenai,99.45911549475024,Cold Wave
+Idaho,Jefferson,98.40916321985365,Cold Wave
+Idaho,Bingham,98.02736239261853,Cold Wave
+Idaho,Bonneville,97.80464524339803,Cold Wave
+Idaho,Madison,95.95927457842824,Cold Wave
+Idaho,Bannock,95.51384027998729,Cold Wave
+Idaho,Cassia,94.68660515431117,Cold Wave
+Idaho,Twin Falls,94.27298759147313,Cold Wave
+Idaho,Fremont,94.11390391345849,Cold Wave
+Idaho,Minidoka,94.05027044225263,Cold Wave
+Illinois,Cook,100.0,Cold Wave
+Illinois,Lake,99.87273305758829,Cold Wave
+Illinois,Will,99.71364937957365,Cold Wave
+Illinois,Winnebago,99.58638243716196,Cold Wave
+Illinois,Peoria,98.56824689786829,Cold Wave
+Illinois,DeKalb,97.67737830098633,Cold Wave
+Illinois,Kankakee,97.61374482978049,Cold Wave
+Illinois,McLean,97.58192809417754,Cold Wave
+Illinois,McHenry,97.35921094495704,Cold Wave
+Illinois,Kendall,96.69105949729557,Cold Wave
+Indiana,Lake,99.80909958638243,Cold Wave
+Indiana,Tippecanoe,97.93191218580972,Cold Wave
+Indiana,Porter,97.07286032453071,Cold Wave
+Indiana,LaPorte,96.7228762328985,Cold Wave
+Indiana,Marion,96.62742602608972,Cold Wave
+Indiana,Allen,96.43652561247217,Cold Wave
+Indiana,St. Joseph,93.92300349984093,Cold Wave
+Indiana,Elkhart,93.6684696150175,Cold Wave
+Indiana,Montgomery,86.73242125357939,Cold Wave
+Indiana,Kosciusko,86.70060451797646,Cold Wave
+Iowa,Dubuque,99.49093223035317,Cold Wave
+Iowa,Scott,99.4272987591473,Cold Wave
+Iowa,Clinton,98.31371301304486,Cold Wave
+Iowa,Jackson,96.1501749920458,Cold Wave
+Iowa,Delaware,95.8001909004136,Cold Wave
+Iowa,Washington,94.97295577473751,Cold Wave
+Iowa,Buchanan,93.57301940820871,Cold Wave
+Iowa,Des Moines,93.38211899459117,Cold Wave
+Iowa,Benton,91.66401527203308,Cold Wave
+Iowa,Jones,91.05949729557749,Cold Wave
+Kansas,Wichita,97.2001272669424,Cold Wave
+Kansas,Haskell,96.88195991091314,Cold Wave
+Kansas,Johnson,94.33662106267896,Cold Wave
+Kansas,Grant,93.03213490295897,Cold Wave
+Kansas,Seward,91.75946547884189,Cold Wave
+Kansas,Greeley,91.72764874323894,Cold Wave
+Kansas,Douglas,90.51861279032771,Cold Wave
+Kansas,Hamilton,89.4368437798282,Cold Wave
+Kansas,Finney,89.11867642379892,Cold Wave
+Kansas,Kearny,88.35507476932867,Cold Wave
+Kentucky,Fayette,96.46834234807508,Cold Wave
+Kentucky,Jefferson,86.22335348393256,Cold Wave
+Kentucky,Laurel,81.25994272987592,Cold Wave
+Kentucky,Warren,80.62360801781738,Cold Wave
+Kentucky,Madison,74.51479478205536,Cold Wave
+Kentucky,Bourbon,71.65128857779192,Cold Wave
+Kentucky,Woodford,68.72414890232263,Cold Wave
+Kentucky,Grant,68.31053133948457,Cold Wave
+Kentucky,Shelby,66.49697741011772,Cold Wave
+Kentucky,Franklin,64.4925230671333,Cold Wave
+Louisiana,Rapides,86.66878778237354,Cold Wave
+Louisiana,St. Landry,81.9599109131403,Cold Wave
+Louisiana,Avoyelles,71.68310531339485,Cold Wave
+Louisiana,Vernon,68.119630925867,Cold Wave
+Louisiana,Evangeline,67.13331212217626,Cold Wave
+Louisiana,Beauregard,64.58797327394208,Cold Wave
+Louisiana,Allen,57.04740693604836,Cold Wave
+Louisiana,Calcasieu,28.825962456251993,Cold Wave
+Louisiana,Sabine,27.266942411708563,Cold Wave
+Louisiana,Acadia,0.0,Cold Wave
+Maine,Aroostook,90.391345847916,Cold Wave
+Maine,Somerset,76.2328985046134,Cold Wave
+Maine,Oxford,73.9739102768056,Cold Wave
+Maine,Franklin,67.35602927139675,Cold Wave
+Maine,Kennebec,58.12917594654788,Cold Wave
+Maine,Penobscot,57.874642061724465,Cold Wave
+Maine,Waldo,54.59751829462298,Cold Wave
+Maine,Cumberland,51.95672923958002,Cold Wave
+Maine,Piscataquis,44.38434616608336,Cold Wave
+Maine,York,41.90264078905505,Cold Wave
+Maryland,Prince George's,95.03658924594336,Cold Wave
+Maryland,Montgomery,84.66433343938911,Cold Wave
+Maryland,Baltimore,82.15081132675788,Cold Wave
+Maryland,Frederick,75.46929685014318,Cold Wave
+Maryland,Carroll,74.57842825326122,Cold Wave
+Maryland,Allegany,71.26948775055679,Cold Wave
+Maryland,Washington,68.46961501749921,Cold Wave
+Maryland,Anne Arundel,68.15144766146993,Cold Wave
+Maryland,Garrett,64.14253897550111,Cold Wave
+Maryland,Howard,59.81546293350302,Cold Wave
+Massachusetts,Suffolk,90.42316258351893,Cold Wave
+Massachusetts,Norfolk,73.87846006999682,Cold Wave
+Massachusetts,Worcester,73.33757556474706,Cold Wave
+Massachusetts,Middlesex,69.61501749920458,Cold Wave
+Massachusetts,Hampden,59.62456251988546,Cold Wave
+Massachusetts,Berkshire,57.397391027680555,Cold Wave
+Massachusetts,Essex,52.65669742284441,Cold Wave
+Massachusetts,Hampshire,43.81164492523067,Cold Wave
+Massachusetts,Bristol,42.888959592745785,Cold Wave
+Massachusetts,Franklin,42.82532612153993,Cold Wave
+Michigan,Wayne,99.90454979319122,Cold Wave
+Michigan,Oakland,99.23639834552976,Cold Wave
+Michigan,Macomb,99.07731466751513,Cold Wave
+Michigan,Marquette,94.1457206490614,Cold Wave
+Michigan,St. Clair,93.73210308622335,Cold Wave
+Michigan,Bay,92.55488386891504,Cold Wave
+Michigan,Ottawa,91.0913140311804,Cold Wave
+Michigan,Ingham,89.72319440025454,Cold Wave
+Michigan,Kent,89.21412663060771,Cold Wave
+Michigan,Saginaw,89.05504295259307,Cold Wave
+Minnesota,Hennepin,99.77728285077951,Cold Wave
+Minnesota,Anoka,99.6500159083678,Cold Wave
+Minnesota,Ramsey,99.04549793191218,Cold Wave
+Minnesota,St. Louis,98.79096404708876,Cold Wave
+Minnesota,Stearns,95.73655742920776,Cold Wave
+Minnesota,Polk,95.2911231307668,Cold Wave
+Minnesota,Olmsted,95.13203945275215,Cold Wave
+Minnesota,Carlton,93.50938593700286,Cold Wave
+Minnesota,Chisago,92.4912503977092,Cold Wave
+Minnesota,Clay,92.17308304167992,Cold Wave
+Mississippi,Adams,0.0,Cold Wave
+Mississippi,Alcorn,0.0,Cold Wave
+Mississippi,Amite,0.0,Cold Wave
+Mississippi,Attala,0.0,Cold Wave
+Mississippi,Benton,0.0,Cold Wave
+Mississippi,Bolivar,0.0,Cold Wave
+Mississippi,Calhoun,0.0,Cold Wave
+Mississippi,Carroll,0.0,Cold Wave
+Mississippi,Chickasaw,0.0,Cold Wave
+Mississippi,Choctaw,0.0,Cold Wave
+Missouri,Jackson,96.30925867006044,Cold Wave
+Missouri,St. Charles,96.18199172764872,Cold Wave
+Missouri,Boone,92.87305122494433,Cold Wave
+Missouri,Saline,91.3458479160038,Cold Wave
+Missouri,Pettis,91.25039770919504,Cold Wave
+Missouri,Greene,91.02768055997454,Cold Wave
+Missouri,Barry,90.90041361756285,Cold Wave
+Missouri,St. Louis,90.13681196309257,Cold Wave
+Missouri,Pike,89.94591154947503,Cold Wave
+Missouri,Audrain,89.59592745784283,Cold Wave
+Montana,Flathead,99.61819917276488,Cold Wave
+Montana,Missoula,99.52274896595608,Cold Wave
+Montana,Cascade,98.75914731148583,Cold Wave
+Montana,Roosevelt,98.53643016226535,Cold Wave
+Montana,Lake,97.4228444161629,Cold Wave
+Montana,Silver Bow,97.26376073814825,Cold Wave
+Montana,Ravalli,96.94559338211901,Cold Wave
+Montana,Hill,95.67292395800192,Cold Wave
+Montana,Lewis and Clark,94.90932230353167,Cold Wave
+Montana,Glacier,94.71842188991408,Cold Wave
+Nebraska,Morrill,97.32739420935413,Cold Wave
+Nebraska,Scotts Bluff,97.16831053133949,Cold Wave
+Nebraska,Sheridan,94.40025453388482,Cold Wave
+Nebraska,Box Butte,93.98663697104676,Cold Wave
+Nebraska,Sarpy,92.52306713331213,Cold Wave
+Nebraska,Chase,92.30034998409165,Cold Wave
+Nebraska,Cheyenne,91.47311485841551,Cold Wave
+Nebraska,Sioux,90.45497931912185,Cold Wave
+Nebraska,Dundy,87.59147311485842,Cold Wave
+Nebraska,Dawes,83.64619790009546,Cold Wave
+Nevada,White Pine,60.22908049634109,Cold Wave
+Nevada,Lander,38.02099904549793,Cold Wave
+Nevada,Lincoln,37.989182309895,Cold Wave
+Nevada,Eureka,37.480114540248174,Cold Wave
+Nevada,Esmeralda,36.49379573655743,Cold Wave
+Nevada,Nye,30.034998409163222,Cold Wave
+Nevada,Elko,28.985046134266625,Cold Wave
+Nevada,Clark,27.9032771237671,Cold Wave
+Nevada,Churchill,27.776010181355392,Cold Wave
+Nevada,Humboldt,27.39420935412027,Cold Wave
+New Hampshire,Coos,93.85937002863504,Cold Wave
+New Hampshire,Hillsborough,78.7782373528476,Cold Wave
+New Hampshire,Grafton,77.28285077951003,Cold Wave
+New Hampshire,Rockingham,67.45147947820553,Cold Wave
+New Hampshire,Merrimack,64.55615653833917,Cold Wave
+New Hampshire,Cheshire,60.51543111676742,Cold Wave
+New Hampshire,Strafford,60.35634743875279,Cold Wave
+New Hampshire,Carroll,58.44734330257716,Cold Wave
+New Hampshire,Sullivan,54.533884823417125,Cold Wave
+New Hampshire,Belknap,54.43843461660833,Cold Wave
+New Jersey,Passaic,54.21571746738785,Cold Wave
+New Jersey,Sussex,49.8250079541839,Cold Wave
+New Jersey,Morris,29.875914731148583,Cold Wave
+New Jersey,Bergen,28.6032453070315,Cold Wave
+New Jersey,Atlantic,0.0,Cold Wave
+New Jersey,Burlington,0.0,Cold Wave
+New Jersey,Camden,0.0,Cold Wave
+New Jersey,Cape May,0.0,Cold Wave
+New Jersey,Cumberland,0.0,Cold Wave
+New Jersey,Essex,0.0,Cold Wave
+New Mexico,McKinley,93.35030225898822,Cold Wave
+New Mexico,Santa Fe,92.65033407572383,Cold Wave
+New Mexico,Lea,88.9914094813872,Cold Wave
+New Mexico,Cibola,82.30989500477251,Cold Wave
+New Mexico,Curry,80.27362392618518,Cold Wave
+New Mexico,Rio Arriba,80.11454024817054,Cold Wave
+New Mexico,Taos,76.01018135539293,Cold Wave
+New Mexico,Eddy,75.78746420617244,Cold Wave
+New Mexico,Roosevelt,65.38339166401526,Cold Wave
+New Mexico,Lincoln,61.215399300031805,Cold Wave
+New York,Erie,98.25007954183901,Cold Wave
+New York,Niagara,91.98218262806236,Cold Wave
+New York,Chautauqua,91.7912822144448,Cold Wave
+New York,Steuben,88.89595927457843,Cold Wave
+New York,Onondaga,88.67324212535796,Cold Wave
+New York,Cattaraugus,87.94145720649061,Cold Wave
+New York,Wyoming,87.6869233216672,Cold Wave
+New York,St. Lawrence,87.62328985046133,Cold Wave
+New York,Ontario,87.55965637925549,Cold Wave
+New York,Monroe,86.82787146038817,Cold Wave
+North Carolina,Buncombe,93.25485205217944,Cold Wave
+North Carolina,Henderson,92.42761692650335,Cold Wave
+North Carolina,Macon,84.56888323258033,Cold Wave
+North Carolina,Haywood,84.50524976137446,Cold Wave
+North Carolina,Jackson,79.57365574292078,Cold Wave
+North Carolina,Transylvania,79.2554883868915,Cold Wave
+North Carolina,Avery,78.9055042952593,Cold Wave
+North Carolina,Swain,76.13744829780464,Cold Wave
+North Carolina,Watauga,74.96022908049635,Cold Wave
+North Carolina,Madison,71.52402163538021,Cold Wave
+North Dakota,Williams,99.74546611517657,Cold Wave
+North Dakota,Ward,99.3000318167356,Cold Wave
+North Dakota,Stutsman,98.98186446070632,Cold Wave
+North Dakota,Stark,98.85459751829461,Cold Wave
+North Dakota,Grand Forks,98.09099586382438,Cold Wave
+North Dakota,Richland,97.9955456570156,Cold Wave
+North Dakota,Cass,97.64556156538339,Cold Wave
+North Dakota,Walsh,97.10467706013364,Cold Wave
+North Dakota,Pembina,96.53197581928094,Cold Wave
+North Dakota,Barnes,96.27744193445751,Cold Wave
+Ohio,Cuyahoga,99.26821508113267,Cold Wave
+Ohio,Franklin,98.28189627744196,Cold Wave
+Ohio,Ashtabula,97.13649379573656,Cold Wave
+Ohio,Trumbull,97.04104358892778,Cold Wave
+Ohio,Mahoning,94.87750556792872,Cold Wave
+Ohio,Hamilton,92.01399936366528,Cold Wave
+Ohio,Butler,85.65065224307986,Cold Wave
+Ohio,Columbiana,82.94622971683106,Cold Wave
+Ohio,Summit,73.43302577155583,Cold Wave
+Ohio,Lorain,72.54215717467389,Cold Wave
+Oklahoma,Texas,99.33184855233853,Cold Wave
+Oklahoma,Logan,98.88641425389754,Cold Wave
+Oklahoma,Cleveland,98.66369710467704,Cold Wave
+Oklahoma,Canadian,95.89564110722239,Cold Wave
+Oklahoma,Comanche,95.60929048679604,Cold Wave
+Oklahoma,Garfield,95.32293986636972,Cold Wave
+Oklahoma,Kay,95.22748965956093,Cold Wave
+Oklahoma,Payne,94.3684377982819,Cold Wave
+Oklahoma,Ottawa,92.68215081132676,Cold Wave
+Oklahoma,Oklahoma,92.26853324848871,Cold Wave
+Oregon,Umatilla,90.8685968819599,Cold Wave
+Oregon,Morrow,85.26885141584474,Cold Wave
+Oregon,Union,84.0598154629335,Cold Wave
+Oregon,Deschutes,70.9195036589246,Cold Wave
+Oregon,Lake,64.61979000954501,Cold Wave
+Oregon,Malheur,63.98345529748648,Cold Wave
+Oregon,Klamath,61.69265033407573,Cold Wave
+Oregon,Wasco,58.3837098313713,Cold Wave
+Oregon,Jefferson,57.11104040725422,Cold Wave
+Oregon,Clackamas,49.984091632198535,Cold Wave
+Pennsylvania,Erie,97.77282850779508,Cold Wave
+Pennsylvania,Luzerne,96.3728921412663,Cold Wave
+Pennsylvania,Monroe,91.15494750238624,Cold Wave
+Pennsylvania,Allegheny,88.00509067769649,Cold Wave
+Pennsylvania,Westmoreland,86.12790327712376,Cold Wave
+Pennsylvania,Cambria,84.5370664969774,Cold Wave
+Pennsylvania,Somerset,83.55074769328667,Cold Wave
+Pennsylvania,Lancaster,83.13713013044861,Cold Wave
+Pennsylvania,Crawford,81.0054088450525,Cold Wave
+Pennsylvania,Carbon,78.49188673242125,Cold Wave
+Rhode Island,Providence,60.9608654152084,Cold Wave
+Rhode Island,Kent,35.60292713967547,Cold Wave
+Rhode Island,Washington,33.757556474705694,Cold Wave
+Rhode Island,Newport,31.466751511294945,Cold Wave
+Rhode Island,Bristol,30.734966592427615,Cold Wave
+South Carolina,Oconee,29.366846961501754,Cold Wave
+South Carolina,Greenville,28.92141266306077,Cold Wave
+South Carolina,Abbeville,0.0,Cold Wave
+South Carolina,Aiken,0.0,Cold Wave
+South Carolina,Allendale,0.0,Cold Wave
+South Carolina,Anderson,0.0,Cold Wave
+South Carolina,Bamberg,0.0,Cold Wave
+South Carolina,Barnwell,0.0,Cold Wave
+South Carolina,Beaufort,0.0,Cold Wave
+South Carolina,Berkeley,0.0,Cold Wave
+South Dakota,Minnehaha,99.93636652879412,Cold Wave
+South Dakota,Pennington,99.55456570155901,Cold Wave
+South Dakota,Brookings,99.17276487432389,Cold Wave
+South Dakota,Brown,98.9500477251034,Cold Wave
+South Dakota,Codington,98.6000636334712,Cold Wave
+South Dakota,Lincoln,98.50461342666244,Cold Wave
+South Dakota,Roberts,97.2955774737512,Cold Wave
+South Dakota,Beadle,96.40470887686925,Cold Wave
+South Dakota,Marshall,96.34107540566336,Cold Wave
+South Dakota,Spink,95.92745784282533,Cold Wave
+Tennessee,Sumner,85.39611835825644,Cold Wave
+Tennessee,Franklin,82.78714603881642,Cold Wave
+Tennessee,Lincoln,79.41457206490614,Cold Wave
+Tennessee,Montgomery,78.3009863188037,Cold Wave
+Tennessee,Davidson,76.2010817690105,Cold Wave
+Tennessee,Greene,60.706331530384986,Cold Wave
+Tennessee,Johnson,58.892777601018125,Cold Wave
+Tennessee,Sullivan,57.524657970092264,Cold Wave
+Tennessee,Claiborne,56.761056315622014,Cold Wave
+Tennessee,Robertson,56.37925548838689,Cold Wave
+Texas,Nueces,99.84091632198536,Cold Wave
+Texas,Harris,99.20458160992682,Cold Wave
+Texas,Deaf Smith,98.91823098950049,Cold Wave
+Texas,Starr,98.44097995545657,Cold Wave
+Texas,Hartley,98.1228125994273,Cold Wave
+Texas,Dallas,98.05917912822144,Cold Wave
+Texas,Denton,97.96372892141267,Cold Wave
+Texas,Fort Bend,97.86827871460389,Cold Wave
+Texas,Tarrant,97.39102768055997,Cold Wave
+Texas,Willacy,97.00922685332485,Cold Wave
+Utah,Uintah,53.579382755329306,Cold Wave
+Utah,Box Elder,47.82055361119949,Cold Wave
+Utah,Summit,41.202672605790646,Cold Wave
+Utah,Rich,39.73910276805599,Cold Wave
+Utah,Weber,32.93032134902959,Cold Wave
+Utah,Cache,31.21221762647152,Cold Wave
+Utah,Morgan,30.607699650015903,Cold Wave
+Utah,Daggett,30.225898822780785,Cold Wave
+Utah,Salt Lake,30.16226535157493,Cold Wave
+Utah,Davis,29.525930639516385,Cold Wave
+Vermont,Franklin,71.11040407254215,Cold Wave
+Vermont,Caledonia,70.6967865097041,Cold Wave
+Vermont,Orleans,69.29685014317532,Cold Wave
+Vermont,Windham,63.66528794145721,Cold Wave
+Vermont,Chittenden,57.77919185491569,Cold Wave
+Vermont,Lamoille,52.81578110085905,Cold Wave
+Vermont,Essex,52.08399618199173,Cold Wave
+Vermont,Washington,48.58415526566974,Cold Wave
+Vermont,Rutland,44.607063315303854,Cold Wave
+Vermont,Addison,42.857142857142854,Cold Wave
+Virginia,Fairfax,80.78269169583201,Cold Wave
+Virginia,Loudoun,75.56474705695196,Cold Wave
+Virginia,Prince William,67.2923958001909,Cold Wave
+Virginia,Culpeper,64.30162265351575,Cold Wave
+Virginia,Washington,62.26535157492841,Cold Wave
+Virginia,Roanoke,59.847279669105944,Cold Wave
+Virginia,Frederick,57.3337575564747,Cold Wave
+Virginia,Montgomery,56.53833916640153,Cold Wave
+Virginia,Augusta,55.77473751193127,Cold Wave
+Virginia,Wise,54.69296850143175,Cold Wave
+Washington,Yakima,99.68183264397072,Cold Wave
+Washington,Grant,99.39548202354437,Cold Wave
+Washington,Spokane,99.10913140311804,Cold Wave
+Washington,Benton,98.3455297486478,Cold Wave
+Washington,Okanogan,97.51829462297168,Cold Wave
+Washington,Franklin,95.4183900731785,Cold Wave
+Washington,Adams,93.0957683741648,Cold Wave
+Washington,Douglas,92.36398345529749,Cold Wave
+Washington,Walla Walla,91.85491568565064,Cold Wave
+Washington,Whatcom,80.90995863824372,Cold Wave
+West Virginia,Kanawha,76.26471524021635,Cold Wave
+West Virginia,Greenbrier,63.25167037861915,Cold Wave
+West Virginia,Berkeley,63.156220171810375,Cold Wave
+West Virginia,Raleigh,59.52911231307668,Cold Wave
+West Virginia,Preston,59.33821189945911,Cold Wave
+West Virginia,Mercer,57.23830734966593,Cold Wave
+West Virginia,Monongalia,56.88832325803372,Cold Wave
+West Virginia,Randolph,56.22017181037226,Cold Wave
+West Virginia,Mineral,54.05663378937321,Cold Wave
+West Virginia,Fayette,51.097677378300986,Cold Wave
+Wisconsin,Milwaukee,99.96818326439707,Cold Wave
+Wisconsin,Brown,98.72733057588293,Cold Wave
+Wisconsin,Rock,97.70919503658925,Cold Wave
+Wisconsin,Dane,97.55011135857461,Cold Wave
+Wisconsin,Waukesha,96.81832643970729,Cold Wave
+Wisconsin,Kenosha,96.56379255488386,Cold Wave
+Wisconsin,St. Croix,95.99109131403118,Cold Wave
+Wisconsin,Barron,94.81387209672287,Cold Wave
+Wisconsin,Wood,93.95482023544383,Cold Wave
+Wisconsin,Fond du Lac,93.82755329303212,Cold Wave
+Wyoming,Laramie,99.36366528794144,Cold Wave
+Wyoming,Albany,97.74101177219218,Cold Wave
+Wyoming,Campbell,94.78205536111997,Cold Wave
+Wyoming,Goshen,92.10944957047407,Cold Wave
+Wyoming,Park,91.40948138720967,Cold Wave
+Wyoming,Converse,89.5641107222399,Cold Wave
+Wyoming,Natrona,89.46866051543113,Cold Wave
+Wyoming,Platte,83.61438116449253,Cold Wave
+Wyoming,Crook,78.81005408845053,Cold Wave
+Wyoming,Carbon,76.39198218262804,Cold Wave
+Alabama,Madison,97.32739420935413,Heat Wave
+Alabama,Mobile,97.16831053133949,Heat Wave
+Alabama,Montgomery,96.91377664651607,Heat Wave
+Alabama,Tuscaloosa,96.65924276169264,Heat Wave
+Alabama,Jefferson,96.30925867006044,Heat Wave
+Alabama,Escambia,94.08208717785557,Heat Wave
+Alabama,Shelby,93.89118676423799,Heat Wave
+Alabama,Lee,93.28666878778238,Heat Wave
+Alabama,Morgan,91.85491568565064,Heat Wave
+Alabama,Baldwin,91.0913140311804,Heat Wave
+Alaska,Aleutians East,0.0,Heat Wave
+Alaska,Aleutians West,0.0,Heat Wave
+Alaska,Anchorage,0.0,Heat Wave
+Alaska,Bethel,0.0,Heat Wave
+Alaska,Bristol Bay,0.0,Heat Wave
+Alaska,Chugach,0.0,Heat Wave
+Alaska,Copper River,0.0,Heat Wave
+Alaska,Denali,0.0,Heat Wave
+Alaska,Dillingham,0.0,Heat Wave
+Alaska,Fairbanks North Star,0.0,Heat Wave
+Arizona,Maricopa,99.80909958638243,Heat Wave
+Arizona,Pima,99.10913140311804,Heat Wave
+Arizona,Pinal,98.82278078269168,Heat Wave
+Arizona,Mohave,96.18199172764872,Heat Wave
+Arizona,Yuma,95.00477251034044,Heat Wave
+Arizona,Santa Cruz,93.60483614381165,Heat Wave
+Arizona,La Paz,91.695832007636,Heat Wave
+Arizona,Cochise,86.95513840279988,Heat Wave
+Arizona,Graham,82.08717785555201,Heat Wave
+Arizona,Gila,58.16099268215081,Heat Wave
+Arkansas,Pulaski,98.18644607063317,Heat Wave
+Arkansas,Crawford,97.61374482978049,Heat Wave
+Arkansas,Washington,95.89564110722239,Heat Wave
+Arkansas,Benton,94.43207126948776,Heat Wave
+Arkansas,Saline,94.40025453388482,Heat Wave
+Arkansas,Crittenden,93.7002863506204,Heat Wave
+Arkansas,Mississippi,92.90486796054724,Heat Wave
+Arkansas,Franklin,91.82309895004772,Heat Wave
+Arkansas,Greene,91.50493159401844,Heat Wave
+Arkansas,St. Francis,89.9140948138721,Heat Wave
+California,Tulare,99.6500159083678,Heat Wave
+California,Fresno,99.45911549475024,Heat Wave
+California,Sacramento,99.23639834552976,Heat Wave
+California,Merced,99.01368119630925,Heat Wave
+California,Madera,98.9500477251034,Heat Wave
+California,Riverside,98.75914731148583,Heat Wave
+California,Kings,98.4727966910595,Heat Wave
+California,Los Angeles,98.44097995545657,Heat Wave
+California,Kern,97.9000954502068,Heat Wave
+California,San Diego,97.86827871460389,Heat Wave
+Colorado,Mesa,91.88673242125358,Heat Wave
+Colorado,Montrose,25.64428889595927,Heat Wave
+Colorado,San Miguel,22.876232898504615,Heat Wave
+Colorado,Dolores,19.37639198218263,Heat Wave
+Colorado,Garfield,19.3445752465797,Heat Wave
+Colorado,La Plata,18.262806236080177,Heat Wave
+Colorado,Moffat,17.881005408845052,Heat Wave
+Colorado,Rio Blanco,17.849188673242125,Heat Wave
+Colorado,Delta,17.467387846007,Heat Wave
+Colorado,Montezuma,17.212853961183583,Heat Wave
+Connecticut,Hartford,90.20044543429844,Heat Wave
+Connecticut,Fairfield,84.79160038180082,Heat Wave
+Connecticut,New Haven,58.829144129812285,Heat Wave
+Connecticut,New London,35.03022589882278,Heat Wave
+Connecticut,Tolland,30.79860006363347,Heat Wave
+Connecticut,Middlesex,30.4804327076042,Heat Wave
+Connecticut,Windham,29.048679605472476,Heat Wave
+Connecticut,Litchfield,28.316894686605153,Heat Wave
+Delaware,New Castle,97.45466115176583,Heat Wave
+Delaware,Sussex,96.05472478523703,Heat Wave
+Delaware,Kent,93.79573655742922,Heat Wave
+District of Columbia,District of Columbia,97.64556156538339,Heat Wave
+Florida,Leon,90.61406299713649,Heat Wave
+Florida,Escambia,77.28285077951003,Heat Wave
+Florida,Okaloosa,67.7696468342348,Heat Wave
+Florida,Gadsden,66.87877823735285,Heat Wave
+Florida,Santa Rosa,66.33789373210308,Heat Wave
+Florida,Jackson,63.44257079223672,Heat Wave
+Florida,Bay,53.00668151447662,Heat Wave
+Florida,Wakulla,49.95227489659561,Heat Wave
+Florida,Gulf,45.211581291759465,Heat Wave
+Florida,Franklin,45.14794782055361,Heat Wave
+Georgia,Chatham,94.87750556792872,Heat Wave
+Georgia,Liberty,94.01845370664968,Heat Wave
+Georgia,Richmond,89.78682787146039,Heat Wave
+Georgia,Bibb,87.87782373528475,Heat Wave
+Georgia,Muscogee,87.05058860960865,Heat Wave
+Georgia,Houston,85.90518612790328,Heat Wave
+Georgia,Bulloch,81.25994272987592,Heat Wave
+Georgia,Effingham,80.05090677696467,Heat Wave
+Georgia,Barrow,79.98727330575883,Heat Wave
+Georgia,Sumter,77.2510340439071,Heat Wave
+Hawaii,Hawaii,0.0,Heat Wave
+Hawaii,Honolulu,0.0,Heat Wave
+Hawaii,Kalawao,0.0,Heat Wave
+Hawaii,Kauai,0.0,Heat Wave
+Hawaii,Maui,0.0,Heat Wave
+Idaho,Ada,96.85014317531021,Heat Wave
+Idaho,Canyon,95.48202354438435,Heat Wave
+Idaho,Kootenai,87.65510658606425,Heat Wave
+Idaho,Twin Falls,83.20076360165446,Heat Wave
+Idaho,Elmore,74.51479478205536,Heat Wave
+Idaho,Payette,74.48297804645243,Heat Wave
+Idaho,Nez Perce,73.94209354120267,Heat Wave
+Idaho,Gem,69.01049952274897,Heat Wave
+Idaho,Jerome,67.06967865097042,Heat Wave
+Idaho,Owyhee,65.95609290486796,Heat Wave
+Illinois,Cook,100.0,Heat Wave
+Illinois,Madison,98.69551384027999,Heat Wave
+Illinois,St. Clair,98.63188036907412,Heat Wave
+Illinois,Will,98.50461342666244,Heat Wave
+Illinois,Champaign,97.10467706013364,Heat Wave
+Illinois,Tazewell,96.56379255488386,Heat Wave
+Illinois,Lake,96.3728921412663,Heat Wave
+Illinois,Peoria,95.4183900731785,Heat Wave
+Illinois,Macon,95.2911231307668,Heat Wave
+Illinois,Adams,95.195672923958,Heat Wave
+Indiana,Lake,95.8001909004136,Heat Wave
+Indiana,Vanderburgh,94.90932230353167,Heat Wave
+Indiana,Tippecanoe,94.78205536111997,Heat Wave
+Indiana,Vigo,93.73210308622335,Heat Wave
+Indiana,Warrick,90.74132993954821,Heat Wave
+Indiana,Marion,90.23226216990136,Heat Wave
+Indiana,Allen,88.00509067769649,Heat Wave
+Indiana,Porter,86.79605472478524,Heat Wave
+Indiana,LaPorte,86.31880369074133,Heat Wave
+Indiana,Knox,83.61438116449253,Heat Wave
+Iowa,Wapello,91.37766465160675,Heat Wave
+Iowa,Scott,91.18676423798918,Heat Wave
+Iowa,Des Moines,91.12313076678333,Heat Wave
+Iowa,Lee,89.15049315940183,Heat Wave
+Iowa,Woodbury,86.19153674832963,Heat Wave
+Iowa,Pottawattamie,86.09608654152085,Heat Wave
+Iowa,Appanoose,76.6783328030544,Heat Wave
+Iowa,Dubuque,75.18294622971683,Heat Wave
+Iowa,Clarke,74.76932866687878,Heat Wave
+Iowa,Davis,73.43302577155583,Heat Wave
+Kansas,Johnson,98.91823098950049,Heat Wave
+Kansas,Sedgwick,96.1501749920458,Heat Wave
+Kansas,Crawford,94.3684377982819,Heat Wave
+Kansas,Saline,94.17753738466432,Heat Wave
+Kansas,Leavenworth,93.06395163856189,Heat Wave
+Kansas,Harvey,93.00031816735603,Heat Wave
+Kansas,Butler,92.68215081132676,Heat Wave
+Kansas,Reno,91.47311485841551,Heat Wave
+Kansas,Geary,91.3458479160038,Heat Wave
+Kansas,Cowley,90.9958638243716,Heat Wave
+Kentucky,McCracken,94.97295577473751,Heat Wave
+Kentucky,Warren,94.55933821189946,Heat Wave
+Kentucky,Jefferson,94.20935412026726,Heat Wave
+Kentucky,Christian,90.45497931912185,Heat Wave
+Kentucky,Daviess,90.16862869869551,Heat Wave
+Kentucky,Graves,88.2914412981228,Heat Wave
+Kentucky,Muhlenberg,85.49156856506522,Heat Wave
+Kentucky,Hopkins,83.9325485205218,Heat Wave
+Kentucky,Pulaski,82.72351256761057,Heat Wave
+Kentucky,Laurel,82.65987909640471,Heat Wave
+Louisiana,Caddo,99.4272987591473,Heat Wave
+Louisiana,Bossier,99.07731466751513,Heat Wave
+Louisiana,Ouachita,97.55011135857461,Heat Wave
+Louisiana,Orleans,97.2001272669424,Heat Wave
+Louisiana,East Baton Rouge,94.4957047406936,Heat Wave
+Louisiana,Lincoln,92.87305122494433,Heat Wave
+Louisiana,St. Bernard,92.23671651288576,Heat Wave
+Louisiana,St. Tammany,91.25039770919504,Heat Wave
+Louisiana,Jefferson,90.42316258351893,Heat Wave
+Louisiana,Natchitoches,90.391345847916,Heat Wave
+Maine,York,49.37957365574292,Heat Wave
+Maine,Cumberland,48.71142220808145,Heat Wave
+Maine,Kennebec,32.93032134902959,Heat Wave
+Maine,Androscoggin,29.557747375119312,Heat Wave
+Maine,Sagadahoc,22.780782691695833,Heat Wave
+Maine,Oxford,19.24912503977092,Heat Wave
+Maine,Lincoln,18.135539293668472,Heat Wave
+Maine,Aroostook,0.0,Heat Wave
+Maine,Franklin,0.0,Heat Wave
+Maine,Hancock,0.0,Heat Wave
+Maryland,Baltimore,99.55456570155901,Heat Wave
+Maryland,Baltimore,98.88641425389754,Heat Wave
+Maryland,Prince George's,98.85459751829461,Heat Wave
+Maryland,Montgomery,97.51829462297168,Heat Wave
+Maryland,Anne Arundel,96.500159083678,Heat Wave
+Maryland,Harford,93.82755329303212,Heat Wave
+Maryland,Howard,93.38211899459117,Heat Wave
+Maryland,Frederick,93.35030225898822,Heat Wave
+Maryland,Cecil,92.84123448934139,Heat Wave
+Maryland,Washington,89.34139357301943,Heat Wave
+Massachusetts,Suffolk,96.1183582564429,Heat Wave
+Massachusetts,Essex,92.77760101813554,Heat Wave
+Massachusetts,Middlesex,88.48234171174037,Heat Wave
+Massachusetts,Norfolk,55.83837098313714,Heat Wave
+Massachusetts,Hampden,53.73846643334394,Heat Wave
+Massachusetts,Worcester,53.64301622653515,Heat Wave
+Massachusetts,Bristol,53.547566019726375,Heat Wave
+Massachusetts,Plymouth,49.60229080496341,Heat Wave
+Massachusetts,Barnstable,38.53006681514477,Heat Wave
+Massachusetts,Hampshire,29.494113903913465,Heat Wave
+Michigan,Wayne,99.39548202354437,Heat Wave
+Michigan,Oakland,98.79096404708876,Heat Wave
+Michigan,Macomb,96.43652561247217,Heat Wave
+Michigan,Kent,93.6684696150175,Heat Wave
+Michigan,Genesee,93.0957683741648,Heat Wave
+Michigan,Ottawa,91.21858097359213,Heat Wave
+Michigan,Washtenaw,87.71874005727013,Heat Wave
+Michigan,Saginaw,86.9869551384028,Heat Wave
+Michigan,Muskegon,81.76901049952275,Heat Wave
+Michigan,St. Clair,81.51447661469933,Heat Wave
+Minnesota,Ramsey,97.96372892141267,Heat Wave
+Minnesota,Washington,97.23194400254533,Heat Wave
+Minnesota,Hennepin,96.97741011772192,Heat Wave
+Minnesota,Dakota,96.94559338211901,Heat Wave
+Minnesota,Scott,95.06840598154629,Heat Wave
+Minnesota,Carver,92.71396754692968,Heat Wave
+Minnesota,Stearns,91.95036589245944,Heat Wave
+Minnesota,Wright,91.7912822144448,Heat Wave
+Minnesota,Anoka,87.17785555202036,Heat Wave
+Minnesota,Olmsted,81.60992682150811,Heat Wave
+Mississippi,Rankin,94.27298759147313,Heat Wave
+Mississippi,Jackson,93.92300349984093,Heat Wave
+Mississippi,Lee,93.31848552338528,Heat Wave
+Mississippi,Washington,93.15940184537067,Heat Wave
+Mississippi,Hinds,93.03213490295897,Heat Wave
+Mississippi,Warren,92.01399936366528,Heat Wave
+Mississippi,Harrison,91.98218262806236,Heat Wave
+Mississippi,Bolivar,90.83678014635699,Heat Wave
+Mississippi,DeSoto,90.10499522748965,Heat Wave
+Mississippi,Lafayette,90.00954502068087,Heat Wave
+Missouri,St. Louis,99.93636652879412,Heat Wave
+Missouri,Jackson,99.61819917276488,Heat Wave
+Missouri,St. Louis,99.52274896595608,Heat Wave
+Missouri,Greene,99.04549793191218,Heat Wave
+Missouri,St. Charles,98.21826280623608,Heat Wave
+Missouri,Boone,97.77282850779508,Heat Wave
+Missouri,St. Francois,97.58192809417754,Heat Wave
+Missouri,Franklin,97.04104358892778,Heat Wave
+Missouri,Pettis,96.88195991091314,Heat Wave
+Missouri,Lincoln,96.75469296850144,Heat Wave
+Montana,Yellowstone,93.98663697104676,Heat Wave
+Montana,Stillwater,74.16481069042317,Heat Wave
+Montana,Carbon,73.59210944957046,Heat Wave
+Montana,Richland,72.31944002545339,Heat Wave
+Montana,Roosevelt,68.97868278714604,Heat Wave
+Montana,Dawson,67.54692968501432,Heat Wave
+Montana,Big Horn,65.12885777919185,Heat Wave
+Montana,Custer,63.72892141266306,Heat Wave
+Montana,Park,61.947184218899146,Heat Wave
+Montana,Rosebud,59.17912822144448,Heat Wave
+Nebraska,Douglas,92.33216671969456,Heat Wave
+Nebraska,Dodge,75.1511294941139,Heat Wave
+Nebraska,Dawson,67.99236398345529,Heat Wave
+Nebraska,Lincoln,66.49697741011772,Heat Wave
+Nebraska,Dakota,62.10626789691378,Heat Wave
+Nebraska,Thurston,50.97041043588928,Heat Wave
+Nebraska,Custer,46.92968501431753,Heat Wave
+Nebraska,Hall,46.83423480750875,Heat Wave
+Nebraska,Phelps,46.19790009545021,Heat Wave
+Nebraska,Dixon,40.27998727330576,Heat Wave
+Nevada,Clark,99.96818326439707,Heat Wave
+Nevada,Nye,98.56824689786829,Heat Wave
+Nevada,Washoe,60.29271396754693,Heat Wave
+Nevada,Elko,44.51161310849507,Heat Wave
+Nevada,Douglas,42.02990773146675,Heat Wave
+Nevada,Lyon,37.06649697741012,Heat Wave
+Nevada,Humboldt,33.439389118676424,Heat Wave
+Nevada,Lincoln,33.28030544066179,Heat Wave
+Nevada,Churchill,30.67133312122176,Heat Wave
+Nevada,Carson City,30.194082087177858,Heat Wave
+New Hampshire,Hillsborough,75.69201399936367,Heat Wave
+New Hampshire,Rockingham,64.46070633153039,Heat Wave
+New Hampshire,Strafford,50.11135857461024,Heat Wave
+New Hampshire,Merrimack,41.48902322621699,Heat Wave
+New Hampshire,Cheshire,32.48488705058861,Heat Wave
+New Hampshire,Belknap,24.180719058224625,Heat Wave
+New Hampshire,Sullivan,22.55806554247534,Heat Wave
+New Hampshire,Carroll,18.962774419344576,Heat Wave
+New Hampshire,Coos,0.0,Heat Wave
+New Hampshire,Grafton,0.0,Heat Wave
+New Jersey,Essex,98.6000636334712,Heat Wave
+New Jersey,Monmouth,98.40916321985365,Heat Wave
+New Jersey,Camden,98.3455297486478,Heat Wave
+New Jersey,Union,98.28189627744196,Heat Wave
+New Jersey,Middlesex,98.25007954183901,Heat Wave
+New Jersey,Mercer,98.15462933503024,Heat Wave
+New Jersey,Burlington,97.67737830098633,Heat Wave
+New Jersey,Hudson,97.35921094495704,Heat Wave
+New Jersey,Ocean,97.2955774737512,Heat Wave
+New Jersey,Bergen,96.24562519885461,Heat Wave
+New Mexico,Lea,70.98313713013044,Heat Wave
+New Mexico,Eddy,70.06045179764556,Heat Wave
+New Mexico,San Juan,45.43429844097995,Heat Wave
+New Mexico,McKinley,21.730830416799236,Heat Wave
+New Mexico,Doña Ana,19.15367483296214,Heat Wave
+New Mexico,Hidalgo,19.026407890550427,Heat Wave
+New Mexico,Grant,18.199172764874323,Heat Wave
+New Mexico,Chaves,18.040089086859687,Heat Wave
+New Mexico,Roosevelt,17.403754374801146,Heat Wave
+New Mexico,Otero,17.37193763919822,Heat Wave
+New York,Queens,99.77728285077951,Heat Wave
+New York,Kings,99.71364937957365,Heat Wave
+New York,Bronx,99.26821508113267,Heat Wave
+New York,New York,99.14094813872096,Heat Wave
+New York,Richmond,95.83200763601654,Heat Wave
+New York,Nassau,92.3958001909004,Heat Wave
+New York,Suffolk,91.3140311804009,Heat Wave
+New York,Westchester,90.0413617562838,Heat Wave
+New York,Monroe,89.72319440025454,Heat Wave
+New York,Orange,88.83232580337257,Heat Wave
+North Carolina,Onslow,94.75023862551703,Heat Wave
+North Carolina,New Hanover,94.59115494750239,Heat Wave
+North Carolina,Pitt,94.11390391345849,Heat Wave
+North Carolina,Durham,92.55488386891504,Heat Wave
+North Carolina,Wayne,91.53674832962136,Heat Wave
+North Carolina,Columbus,90.93223035316576,Heat Wave
+North Carolina,Craven,90.90041361756285,Heat Wave
+North Carolina,Brunswick,90.80496341075404,Heat Wave
+North Carolina,Nash,88.60960865415208,Heat Wave
+North Carolina,Sampson,88.54597518294624,Heat Wave
+North Dakota,Cass,89.85046134266625,Heat Wave
+North Dakota,Burleigh,79.22367165128857,Heat Wave
+North Dakota,Grand Forks,77.79191854915686,Heat Wave
+North Dakota,Ward,72.22398981864461,Heat Wave
+North Dakota,Morton,72.03308940502704,Heat Wave
+North Dakota,Richland,59.7836461979001,Heat Wave
+North Dakota,Stutsman,58.09735921094495,Heat Wave
+North Dakota,Stark,55.93382118994591,Heat Wave
+North Dakota,McLean,53.83391664015272,Heat Wave
+North Dakota,Mercer,51.256761056315625,Heat Wave
+Ohio,Hamilton,97.4228444161629,Heat Wave
+Ohio,Franklin,96.7228762328985,Heat Wave
+Ohio,Cuyahoga,94.81387209672287,Heat Wave
+Ohio,Montgomery,87.52783964365256,Heat Wave
+Ohio,Lucas,82.62806236080178,Heat Wave
+Ohio,Licking,82.30989500477251,Heat Wave
+Ohio,Mahoning,80.5281578110086,Heat Wave
+Ohio,Trumbull,78.9055042952593,Heat Wave
+Ohio,Greene,76.07381482659878,Heat Wave
+Ohio,Fairfield,75.34202990773147,Heat Wave
+Oklahoma,Tulsa,99.84091632198536,Heat Wave
+Oklahoma,Oklahoma,99.68183264397072,Heat Wave
+Oklahoma,Rogers,98.31371301304486,Heat Wave
+Oklahoma,Muskogee,98.1228125994273,Heat Wave
+Oklahoma,Creek,98.05917912822144,Heat Wave
+Oklahoma,Wagoner,97.93191218580972,Heat Wave
+Oklahoma,Sequoyah,96.53197581928094,Heat Wave
+Oklahoma,Mayes,95.4502068087814,Heat Wave
+Oklahoma,Cherokee,95.25930639516386,Heat Wave
+Oklahoma,Carter,94.71842188991408,Heat Wave
+Oregon,Josephine,91.44129812281261,Heat Wave
+Oregon,Benton,89.4368437798282,Heat Wave
+Oregon,Douglas,87.94145720649061,Heat Wave
+Oregon,Umatilla,86.1597200127267,Heat Wave
+Oregon,Multnomah,84.63251670378618,Heat Wave
+Oregon,Malheur,81.3553929366847,Heat Wave
+Oregon,Clackamas,80.01909004136175,Heat Wave
+Oregon,Washington,77.60101813553929,Heat Wave
+Oregon,Jackson,75.31021317212854,Heat Wave
+Oregon,Marion,70.66496977410117,Heat Wave
+Pennsylvania,Philadelphia,99.90454979319122,Heat Wave
+Pennsylvania,Montgomery,99.3000318167356,Heat Wave
+Pennsylvania,Delaware,98.72733057588293,Heat Wave
+Pennsylvania,Chester,98.37734648425072,Heat Wave
+Pennsylvania,Bucks,97.70919503658925,Heat Wave
+Pennsylvania,Lehigh,96.21380846325167,Heat Wave
+Pennsylvania,Berks,95.54565701559021,Heat Wave
+Pennsylvania,Northampton,92.10944957047407,Heat Wave
+Pennsylvania,Lancaster,89.75501113585747,Heat Wave
+Pennsylvania,York,87.01877187400572,Heat Wave
+Rhode Island,Providence,96.81832643970729,Heat Wave
+Rhode Island,Kent,31.784918867324212,Heat Wave
+Rhode Island,Washington,27.171492204899774,Heat Wave
+Rhode Island,Newport,23.035316576519246,Heat Wave
+Rhode Island,Bristol,21.47629653197582,Heat Wave
+South Carolina,Jasper,92.58670060451799,Heat Wave
+South Carolina,Richland,92.14126630607699,Heat Wave
+South Carolina,Florence,91.60038180082725,Heat Wave
+South Carolina,Lexington,89.21412663060771,Heat Wave
+South Carolina,Charleston,88.67324212535796,Heat Wave
+South Carolina,Horry,87.30512249443207,Heat Wave
+South Carolina,Berkeley,86.41425389755011,Heat Wave
+South Carolina,Aiken,85.74610244988864,Heat Wave
+South Carolina,Dorchester,85.45975182946229,Heat Wave
+South Carolina,Beaufort,84.31434934775692,Heat Wave
+South Dakota,Minnehaha,78.39643652561249,Heat Wave
+South Dakota,Brown,75.91473114858417,Heat Wave
+South Dakota,Codington,72.0967228762329,Heat Wave
+South Dakota,Hughes,62.71078587336939,Heat Wave
+South Dakota,Todd,61.56538339166402,Heat Wave
+South Dakota,Roberts,55.77473751193127,Heat Wave
+South Dakota,Lincoln,54.85205217944639,Heat Wave
+South Dakota,Spink,48.9977728285078,Heat Wave
+South Dakota,Dewey,48.87050588609609,Heat Wave
+South Dakota,Yankton,48.425071587655104,Heat Wave
+Tennessee,Shelby,99.58638243716196,Heat Wave
+Tennessee,Madison,90.35952911231307,Heat Wave
+Tennessee,Tipton,90.26407890550429,Heat Wave
+Tennessee,Fayette,87.97327394209354,Heat Wave
+Tennessee,Dyer,87.62328985046133,Heat Wave
+Tennessee,Lauderdale,86.35062042634425,Heat Wave
+Tennessee,Rutherford,84.72796691059497,Heat Wave
+Tennessee,Carroll,84.4097995545657,Heat Wave
+Tennessee,Montgomery,84.282532612154,Heat Wave
+Tennessee,Gibson,83.2325803372574,Heat Wave
+Texas,Dallas,99.87273305758829,Heat Wave
+Texas,Tarrant,99.74546611517657,Heat Wave
+Texas,Hidalgo,99.49093223035317,Heat Wave
+Texas,Harris,99.36366528794144,Heat Wave
+Texas,Nueces,99.20458160992682,Heat Wave
+Texas,Cameron,99.17276487432389,Heat Wave
+Texas,Denton,98.53643016226535,Heat Wave
+Texas,Angelina,98.09099586382438,Heat Wave
+Texas,Travis,97.9955456570156,Heat Wave
+Texas,Bexar,97.80464524339803,Heat Wave
+Utah,Utah,98.98186446070632,Heat Wave
+Utah,Washington,97.83646197900096,Heat Wave
+Utah,Davis,96.69105949729557,Heat Wave
+Utah,Weber,95.51384027998729,Heat Wave
+Utah,Salt Lake,94.6229716831053,Heat Wave
+Utah,Sevier,86.89150493159403,Heat Wave
+Utah,Cache,86.76423798918232,Heat Wave
+Utah,Carbon,79.51002227171492,Heat Wave
+Utah,Box Elder,76.48743238943685,Heat Wave
+Utah,Kane,72.54215717467389,Heat Wave
+Vermont,Rutland,57.397391027680555,Heat Wave
+Vermont,Chittenden,39.07095132039453,Heat Wave
+Vermont,Windsor,31.275851097677375,Heat Wave
+Vermont,Addison,26.980591791282215,Heat Wave
+Vermont,Windham,25.071587655106587,Heat Wave
+Vermont,Franklin,23.321667196945594,Heat Wave
+Vermont,Grand Isle,19.853643016226535,Heat Wave
+Vermont,Bennington,19.79000954502068,Heat Wave
+Vermont,Orange,18.580973592109448,Heat Wave
+Vermont,Lamoille,17.91282214444798,Heat Wave
+Virginia,Fairfax,92.07763283487114,Heat Wave
+Virginia,Virginia Beach,90.51861279032771,Heat Wave
+Virginia,Chesapeake,89.94591154947503,Heat Wave
+Virginia,Chesterfield,89.086859688196,Heat Wave
+Virginia,Alexandria,88.3868915049316,Heat Wave
+Virginia,Henrico,88.06872414890232,Heat Wave
+Virginia,Newport News,86.2869869551384,Heat Wave
+Virginia,Norfolk,85.55520203627108,Heat Wave
+Virginia,Hampton,80.81450843143494,Heat Wave
+Virginia,Richmond,80.33725739739103,Heat Wave
+Washington,Benton,98.66369710467704,Heat Wave
+Washington,Grant,98.02736239261853,Heat Wave
+Washington,Franklin,97.74101177219218,Heat Wave
+Washington,Chelan,97.07286032453071,Heat Wave
+Washington,Spokane,96.46834234807508,Heat Wave
+Washington,Walla Walla,96.02290804963408,Heat Wave
+Washington,Douglas,95.38657333757556,Heat Wave
+Washington,Pierce,93.85937002863504,Heat Wave
+Washington,Adams,92.26853324848871,Heat Wave
+Washington,King,80.2099904549793,Heat Wave
+West Virginia,Berkeley,67.26057906458797,Heat Wave
+West Virginia,Kanawha,64.26980591791282,Heat Wave
+West Virginia,Jefferson,62.55170219535475,Heat Wave
+West Virginia,Cabell,58.47916003818008,Heat Wave
+West Virginia,Wood,54.533884823417125,Heat Wave
+West Virginia,Putnam,47.56601972637608,Heat Wave
+West Virginia,Wayne,43.77982818962774,Heat Wave
+West Virginia,Ohio,42.50715876551065,Heat Wave
+West Virginia,Monongalia,39.16640152720331,Heat Wave
+West Virginia,Marshall,36.8119630925867,Heat Wave
+Wisconsin,Milwaukee,99.33184855233853,Heat Wave
+Wisconsin,Dane,96.62742602608972,Heat Wave
+Wisconsin,Kenosha,91.02768055997454,Heat Wave
+Wisconsin,Columbia,89.59592745784283,Heat Wave
+Wisconsin,La Crosse,88.70505886096086,Heat Wave
+Wisconsin,Dodge,88.25962456251989,Heat Wave
+Wisconsin,Jefferson,87.84600699968183,Heat Wave
+Wisconsin,Outagamie,87.6869233216672,Heat Wave
+Wisconsin,Racine,86.8596881959911,Heat Wave
+Wisconsin,Walworth,85.93700286350621,Heat Wave
+Wyoming,Sheridan,74.35571110404072,Heat Wave
+Wyoming,Park,19.121858097359212,Heat Wave
+Wyoming,Johnson,18.89914094813872,Heat Wave
+Wyoming,Big Horn,18.54915685650652,Heat Wave
+Wyoming,Campbell,18.230989500477246,Heat Wave
+Wyoming,Albany,0.0,Heat Wave
+Wyoming,Carbon,0.0,Heat Wave
+Wyoming,Converse,0.0,Heat Wave
+Wyoming,Crook,0.0,Heat Wave
+Wyoming,Fremont,0.0,Heat Wave
+Alabama,Mobile,61.3682092555332,Coastal Flooding
+Alabama,Baldwin,55.93561368209256,Coastal Flooding
+Alabama,Clarke,17.50503018108652,Coastal Flooding
+Alabama,Washington,17.303822937625753,Coastal Flooding
+Alabama,Monroe,16.096579476861166,Coastal Flooding
+Alaska,Juneau,38.6317907444668,Coastal Flooding
+Alaska,Nome,35.8148893360161,Coastal Flooding
+Alaska,Kenai Peninsula,32.3943661971831,Coastal Flooding
+Alaska,Sitka,31.991951710261567,Coastal Flooding
+Alaska,Dillingham,31.388329979879277,Coastal Flooding
+Alaska,Anchorage,28.973843058350106,Coastal Flooding
+Alaska,Northwest Arctic,28.37022132796781,Coastal Flooding
+Alaska,Wrangell,27.96780684104628,Coastal Flooding
+Alaska,Chugach,25.955734406438633,Coastal Flooding
+Alaska,Hoonah-Angoon,24.74849094567405,Coastal Flooding
+California,Humboldt,93.96378269617706,Coastal Flooding
+California,Marin,89.53722334004024,Coastal Flooding
+California,San Mateo,79.87927565392354,Coastal Flooding
+California,Santa Clara,74.04426559356136,Coastal Flooding
+California,Solano,72.63581488933602,Coastal Flooding
+California,Alameda,72.2334004024145,Coastal Flooding
+California,Mendocino,62.57545271629779,Coastal Flooding
+California,Contra Costa,57.545271629778675,Coastal Flooding
+California,Sonoma,56.941649899396374,Coastal Flooding
+California,Napa,56.539235412474845,Coastal Flooding
+Connecticut,Fairfield,95.97585513078471,Coastal Flooding
+Connecticut,New Haven,94.56740442655935,Coastal Flooding
+Connecticut,Middlesex,79.47686116700201,Coastal Flooding
+Connecticut,New London,72.43460764587525,Coastal Flooding
+Connecticut,Hartford,36.41851106639838,Coastal Flooding
+Delaware,Sussex,96.78068410462777,Coastal Flooding
+Delaware,New Castle,87.92756539235413,Coastal Flooding
+Delaware,Kent,81.89134808853119,Coastal Flooding
+District of Columbia,District of Columbia,68.00804828973843,Coastal Flooding
+Florida,St. Johns,92.95774647887325,Coastal Flooding
+Florida,Brevard,92.35412474849095,Coastal Flooding
+Florida,Volusia,87.32394366197182,Coastal Flooding
+Florida,Pinellas,82.09255533199197,Coastal Flooding
+Florida,Martin,81.08651911468813,Coastal Flooding
+Florida,Dixie,79.27565392354124,Coastal Flooding
+Florida,Indian River,78.26961770623743,Coastal Flooding
+Florida,St. Lucie,78.06841046277665,Coastal Flooding
+Florida,Miami-Dade,76.45875251509054,Coastal Flooding
+Florida,Manatee,76.05633802816901,Coastal Flooding
+Georgia,Glynn,70.4225352112676,Coastal Flooding
+Georgia,Chatham,66.80080482897385,Coastal Flooding
+Georgia,Camden,59.55734406438632,Coastal Flooding
+Georgia,McIntosh,54.32595573440644,Coastal Flooding
+Georgia,Bryan,48.49094567404427,Coastal Flooding
+Georgia,Liberty,39.839034205231385,Coastal Flooding
+Georgia,Effingham,22.334004024144868,Coastal Flooding
+Georgia,Long,19.718309859154928,Coastal Flooding
+Georgia,Brantley,19.11468812877263,Coastal Flooding
+Georgia,Wayne,17.706237424547282,Coastal Flooding
+Hawaii,Honolulu,76.86116700201208,Coastal Flooding
+Hawaii,Maui,57.74647887323944,Coastal Flooding
+Hawaii,Hawaii,50.30181086519114,Coastal Flooding
+Hawaii,Kauai,50.10060362173038,Coastal Flooding
+Hawaii,Kalawao,18.712273641851105,Coastal Flooding
+Illinois,Cook,44.26559356136821,Coastal Flooding
+Illinois,Lake,39.2354124748491,Coastal Flooding
+Indiana,Lake,40.64386317907445,Coastal Flooding
+Indiana,LaPorte,32.59557344064387,Coastal Flooding
+Indiana,Porter,31.58953722334004,Coastal Flooding
+Louisiana,Jefferson,96.17706237424547,Coastal Flooding
+Louisiana,St. Charles,95.77464788732392,Coastal Flooding
+Louisiana,Terrebonne,91.14688128772637,Coastal Flooding
+Louisiana,St. Mary,90.14084507042254,Coastal Flooding
+Louisiana,Plaquemines,88.12877263581488,Coastal Flooding
+Louisiana,St. Martin,86.51911468812877,Coastal Flooding
+Louisiana,St. Tammany,85.71428571428571,Coastal Flooding
+Louisiana,Livingston,83.5010060362173,Coastal Flooding
+Louisiana,Ascension,83.09859154929578,Coastal Flooding
+Louisiana,St. James,82.897384305835,Coastal Flooding
+Maine,Hancock,81.69014084507043,Coastal Flooding
+Maine,York,81.2877263581489,Coastal Flooding
+Maine,Washington,77.06237424547284,Coastal Flooding
+Maine,Cumberland,75.85513078470825,Coastal Flooding
+Maine,Lincoln,71.42857142857143,Coastal Flooding
+Maine,Waldo,68.61167002012073,Coastal Flooding
+Maine,Sagadahoc,68.41046277665997,Coastal Flooding
+Maine,Knox,67.40442655935614,Coastal Flooding
+Maine,Kennebec,54.72837022132797,Coastal Flooding
+Maine,Penobscot,35.412474849094565,Coastal Flooding
+Maryland,Anne Arundel,94.3661971830986,Coastal Flooding
+Maryland,Worcester,93.36016096579476,Coastal Flooding
+Maryland,Somerset,89.93963782696177,Coastal Flooding
+Maryland,Queen Anne's,89.33601609657947,Coastal Flooding
+Maryland,Talbot,88.93360160965796,Coastal Flooding
+Maryland,Calvert,85.51307847082495,Coastal Flooding
+Maryland,Kent,82.69617706237425,Coastal Flooding
+Maryland,Wicomico,80.6841046277666,Coastal Flooding
+Maryland,Cecil,79.67806841046277,Coastal Flooding
+Maryland,Dorchester,74.64788732394366,Coastal Flooding
+Massachusetts,Plymouth,89.13480885311871,Coastal Flooding
+Massachusetts,Essex,88.73239436619718,Coastal Flooding
+Massachusetts,Suffolk,88.32997987927565,Coastal Flooding
+Massachusetts,Barnstable,83.29979879275655,Coastal Flooding
+Massachusetts,Norfolk,71.6297786720322,Coastal Flooding
+Massachusetts,Dukes,70.22132796780684,Coastal Flooding
+Massachusetts,Bristol,60.160965794768615,Coastal Flooding
+Massachusetts,Middlesex,59.154929577464785,Coastal Flooding
+Massachusetts,Nantucket,48.2897384305835,Coastal Flooding
+Michigan,Bay,63.78269617706237,Coastal Flooding
+Michigan,Wayne,62.17303822937625,Coastal Flooding
+Michigan,Macomb,58.55130784708249,Coastal Flooding
+Michigan,St. Clair,55.33199195171026,Coastal Flooding
+Michigan,Monroe,55.13078470824949,Coastal Flooding
+Michigan,Chippewa,51.50905432595574,Coastal Flooding
+Michigan,Huron,51.30784708249497,Coastal Flooding
+Michigan,Menominee,47.68611670020121,Coastal Flooding
+Michigan,Arenac,43.66197183098591,Coastal Flooding
+Michigan,Iosco,43.460764587525155,Coastal Flooding
+Minnesota,Cook,0.0,Coastal Flooding
+Minnesota,Lake,0.0,Coastal Flooding
+Minnesota,St. Louis,0.0,Coastal Flooding
+Mississippi,Harrison,93.158953722334,Coastal Flooding
+Mississippi,Jackson,87.12273641851107,Coastal Flooding
+Mississippi,Hancock,86.72032193158954,Coastal Flooding
+Mississippi,Pearl River,22.132796780684107,Coastal Flooding
+Mississippi,George,21.12676056338028,Coastal Flooding
+New Hampshire,Rockingham,78.67203219315896,Coastal Flooding
+New Hampshire,Strafford,35.61368209255533,Coastal Flooding
+New Jersey,Bergen,100.0,Coastal Flooding
+New Jersey,Atlantic,99.79879275653923,Coastal Flooding
+New Jersey,Ocean,99.59758551307849,Coastal Flooding
+New Jersey,Cape May,99.3963782696177,Coastal Flooding
+New Jersey,Hudson,99.19517102615694,Coastal Flooding
+New Jersey,Monmouth,98.9939637826962,Coastal Flooding
+New Jersey,Middlesex,98.59154929577464,Coastal Flooding
+New Jersey,Cumberland,98.18913480885313,Coastal Flooding
+New Jersey,Union,95.17102615694164,Coastal Flooding
+New Jersey,Salem,94.96981891348089,Coastal Flooding
+New York,Kings,98.39034205231388,Coastal Flooding
+New York,Queens,97.38430583501007,Coastal Flooding
+New York,Bronx,96.98189134808852,Coastal Flooding
+New York,Westchester,96.57947686116701,Coastal Flooding
+New York,New York,96.37826961770624,Coastal Flooding
+New York,Suffolk,95.57344064386317,Coastal Flooding
+New York,Rockland,90.3420523138833,Coastal Flooding
+New York,Nassau,83.90342052313883,Coastal Flooding
+New York,Richmond,80.08048289738431,Coastal Flooding
+New York,Ulster,78.87323943661971,Coastal Flooding
+North Carolina,Dare,85.3118712273642,Coastal Flooding
+North Carolina,Beaufort,82.49496981891348,Coastal Flooding
+North Carolina,Hyde,78.4708249496982,Coastal Flooding
+North Carolina,Tyrrell,70.82494969818913,Coastal Flooding
+North Carolina,Pasquotank,70.62374245472837,Coastal Flooding
+North Carolina,Currituck,69.41649899396378,Coastal Flooding
+North Carolina,Camden,59.758551307847085,Coastal Flooding
+North Carolina,Pamlico,58.95372233400401,Coastal Flooding
+North Carolina,Chowan,54.12474849094567,Coastal Flooding
+North Carolina,Perquimans,52.51509054325956,Coastal Flooding
+Ohio,Erie,59.95975855130785,Coastal Flooding
+Ohio,Lucas,45.67404426559356,Coastal Flooding
+Ohio,Lorain,43.05835010060362,Coastal Flooding
+Ohio,Lake,42.454728370221325,Coastal Flooding
+Ohio,Sandusky,36.21730382293762,Coastal Flooding
+Ohio,Cuyahoga,36.016096579476866,Coastal Flooding
+Ohio,Ashtabula,32.99798792756539,Coastal Flooding
+Ohio,Geauga,0.0,Coastal Flooding
+Ohio,Ottawa,0.0,Coastal Flooding
+Ohio,Wood,0.0,Coastal Flooding
+Oregon,Clatsop,97.98792756539237,Coastal Flooding
+Oregon,Coos,97.18309859154928,Coastal Flooding
+Oregon,Tillamook,86.31790744466801,Coastal Flooding
+Oregon,Lincoln,84.70824949698189,Coastal Flooding
+Oregon,Douglas,82.29376257545272,Coastal Flooding
+Oregon,Lane,77.66599597585513,Coastal Flooding
+Oregon,Columbia,62.776659959758554,Coastal Flooding
+Oregon,Curry,58.752515090543255,Coastal Flooding
+Oregon,Multnomah,53.923541247484906,Coastal Flooding
+Oregon,Clackamas,23.340040241448698,Coastal Flooding
+Pennsylvania,Philadelphia,97.58551307847083,Coastal Flooding
+Pennsylvania,Delaware,91.54929577464789,Coastal Flooding
+Pennsylvania,Bucks,77.2635814889336,Coastal Flooding
+Pennsylvania,Erie,41.24748490945674,Coastal Flooding
+Pennsylvania,Chester,0.0,Coastal Flooding
+Pennsylvania,Montgomery,0.0,Coastal Flooding
+Rhode Island,Washington,80.28169014084507,Coastal Flooding
+Rhode Island,Newport,66.39839034205231,Coastal Flooding
+Rhode Island,Bristol,63.17907444668008,Coastal Flooding
+Rhode Island,Providence,58.14889336016097,Coastal Flooding
+Rhode Island,Kent,53.31991951710262,Coastal Flooding
+South Carolina,Horry,89.73843058350099,Coastal Flooding
+South Carolina,Charleston,73.44064386317908,Coastal Flooding
+South Carolina,Beaufort,60.7645875251509,Coastal Flooding
+South Carolina,Berkeley,47.88732394366197,Coastal Flooding
+South Carolina,Georgetown,46.88128772635815,Coastal Flooding
+South Carolina,Colleton,39.63782696177062,Coastal Flooding
+South Carolina,Dorchester,35.2112676056338,Coastal Flooding
+South Carolina,Jasper,34.00402414486921,Coastal Flooding
+South Carolina,Williamsburg,18.913480885311873,Coastal Flooding
+South Carolina,Hampton,18.10865191146881,Coastal Flooding
+Texas,Cameron,97.78672032193158,Coastal Flooding
+Texas,Aransas,95.37223340040242,Coastal Flooding
+Texas,Nueces,93.56136820925552,Coastal Flooding
+Texas,Calhoun,88.53118712273643,Coastal Flooding
+Texas,San Patricio,86.92152917505031,Coastal Flooding
+Texas,Jackson,85.91549295774648,Coastal Flooding
+Texas,Brazoria,76.25754527162978,Coastal Flooding
+Texas,Harris,73.8430583501006,Coastal Flooding
+Texas,Willacy,64.38631790744466,Coastal Flooding
+Texas,Refugio,62.97786720321932,Coastal Flooding
+Utah,Davis,0.0,Coastal Flooding
+Utah,Salt Lake,0.0,Coastal Flooding
+Virginia,Accomack,94.76861167002012,Coastal Flooding
+Virginia,Hampton,94.16498993963782,Coastal Flooding
+Virginia,Northumberland,92.15291750503019,Coastal Flooding
+Virginia,Portsmouth,91.9517102615694,Coastal Flooding
+Virginia,Virginia Beach,91.34808853118712,Coastal Flooding
+Virginia,Newport News,90.94567404426559,Coastal Flooding
+Virginia,Mathews,90.74446680080483,Coastal Flooding
+Virginia,Norfolk,90.54325955734409,Coastal Flooding
+Virginia,Gloucester,87.5251509054326,Coastal Flooding
+Virginia,York,86.11670020120724,Coastal Flooding
+Washington,Grays Harbor,98.79275653923541,Coastal Flooding
+Washington,Skagit,92.75653923541248,Coastal Flooding
+Washington,Pacific,91.75050301810866,Coastal Flooding
+Washington,Wahkiakum,87.72635814889335,Coastal Flooding
+Washington,Kitsap,84.50704225352112,Coastal Flooding
+Washington,Snohomish,75.25150905432596,Coastal Flooding
+Washington,Thurston,74.44668008048289,Coastal Flooding
+Washington,Pierce,73.64185110663983,Coastal Flooding
+Washington,Mason,73.03822937625755,Coastal Flooding
+Washington,Island,71.83098591549296,Coastal Flooding
+Wisconsin,Brown,65.3923541247485,Coastal Flooding
+Wisconsin,Door,51.10663983903421,Coastal Flooding
+Wisconsin,Oconto,45.27162977867203,Coastal Flooding
+Wisconsin,Ozaukee,40.845070422535215,Coastal Flooding
+Wisconsin,Kenosha,34.40643863179074,Coastal Flooding
+Wisconsin,Milwaukee,30.18108651911469,Coastal Flooding
+Wisconsin,Sheboygan,29.175050301810867,Coastal Flooding
+Wisconsin,Douglas,28.169014084507044,Coastal Flooding
+Wisconsin,Bayfield,27.76659959758551,Coastal Flooding
+Wisconsin,Racine,26.76056338028169,Coastal Flooding
+Alabama,Madison,87.54163890739507,Ice Storm
+Alabama,DeKalb,75.54963357761493,Ice Storm
+Alabama,Marshall,75.3497668221186,Ice Storm
+Alabama,Walker,74.51698867421719,Ice Storm
+Alabama,Morgan,74.2838107928048,Ice Storm
+Alabama,Jackson,73.71752165223184,Ice Storm
+Alabama,Limestone,72.81812125249833,Ice Storm
+Alabama,Cullman,71.61892071952032,Ice Storm
+Alabama,Choctaw,67.72151898734177,Ice Storm
+Alabama,Lauderdale,65.15656229180547,Ice Storm
+Alaska,Juneau,55.29646902065289,Ice Storm
+Alaska,Anchorage,32.91139240506329,Ice Storm
+Alaska,Sitka,28.314457028647567,Ice Storm
+Alaska,Matanuska-Susitna,25.18321119253831,Ice Storm
+Alaska,Ketchikan Gateway,25.08327781479014,Ice Storm
+Alaska,Kenai Peninsula,24.183877415056628,Ice Storm
+Alaska,Petersburg,20.586275816122583,Ice Storm
+Alaska,Fairbanks North Star,19.586942038640903,Ice Storm
+Alaska,Prince of Wales-Hyder,16.522318454363756,Ice Storm
+Alaska,Hoonah-Angoon,15.622918054630247,Ice Storm
+Arizona,Mohave,68.58760826115923,Ice Storm
+Arizona,Coconino,59.86009327115258,Ice Storm
+Arizona,Navajo,48.567621585609594,Ice Storm
+Arizona,Apache,40.97268487674883,Ice Storm
+Arkansas,Washington,99.70019986675548,Ice Storm
+Arkansas,Baxter,99.56695536309127,Ice Storm
+Arkansas,Boone,99.46702198534311,Ice Storm
+Arkansas,Benton,99.1672218520986,Ice Storm
+Arkansas,Johnson,98.83411059293805,Ice Storm
+Arkansas,Independence,98.76748834110592,Ice Storm
+Arkansas,Union,98.6342438374417,Ice Storm
+Arkansas,Cleburne,98.60093271152564,Ice Storm
+Arkansas,Carroll,98.53431045969353,Ice Storm
+Arkansas,Pope,97.93471019320452,Ice Storm
+Colorado,El Paso,86.77548301132578,Ice Storm
+Colorado,Arapahoe,85.44303797468355,Ice Storm
+Colorado,Adams,84.21052631578947,Ice Storm
+Colorado,Jefferson,82.6115922718188,Ice Storm
+Colorado,Boulder,73.75083277814788,Ice Storm
+Colorado,Weld,72.018654230513,Ice Storm
+Colorado,Larimer,70.48634243837442,Ice Storm
+Colorado,Douglas,69.92005329780146,Ice Storm
+Colorado,Logan,67.3217854763491,Ice Storm
+Colorado,Mesa,65.98934043970687,Ice Storm
+Connecticut,Fairfield,97.60159893404396,Ice Storm
+Connecticut,Litchfield,91.00599600266489,Ice Storm
+Connecticut,New Haven,90.473017988008,Ice Storm
+Connecticut,New London,89.67355096602265,Ice Storm
+Connecticut,Tolland,89.24050632911391,Ice Storm
+Connecticut,Hartford,88.17455029980013,Ice Storm
+Connecticut,Windham,86.94203864090606,Ice Storm
+Connecticut,Middlesex,85.57628247834776,Ice Storm
+Delaware,New Castle,84.84343770819453,Ice Storm
+Delaware,Sussex,80.1132578281146,Ice Storm
+Delaware,Kent,73.28447701532312,Ice Storm
+District of Columbia,District of Columbia,45.40306462358428,Ice Storm
+Florida,Nassau,29.980013324450365,Ice Storm
+Florida,Duval,25.48301132578281,Ice Storm
+Florida,Okaloosa,12.52498334443704,Ice Storm
+Florida,Santa Rosa,7.661558960692871,Ice Storm
+Florida,Escambia,6.828780812791472,Ice Storm
+Florida,Walton,2.831445702864757,Ice Storm
+Florida,Jackson,2.431712191872085,Ice Storm
+Florida,Holmes,0.866089273817455,Ice Storm
+Georgia,Richmond,99.03397734843436,Ice Storm
+Georgia,Columbia,97.06862091938709,Ice Storm
+Georgia,Bibb,92.53830779480346,Ice Storm
+Georgia,Houston,88.64090606262491,Ice Storm
+Georgia,Troup,88.24117255163225,Ice Storm
+Georgia,Greene,86.8421052631579,Ice Storm
+Georgia,Morgan,86.64223850766157,Ice Storm
+Georgia,Lumpkin,86.1425716189207,Ice Storm
+Georgia,Burke,85.34310459693538,Ice Storm
+Georgia,DeKalb,84.17721518987342,Ice Storm
+Hawaii,Honolulu,89.1072618254497,Ice Storm
+Hawaii,Hawaii,63.45769487008661,Ice Storm
+Hawaii,Maui,57.69487008660893,Ice Storm
+Hawaii,Kauai,41.80546302465024,Ice Storm
+Hawaii,Kalawao,0.066622251832112,Ice Storm
+Idaho,Ada,88.47435043304463,Ice Storm
+Idaho,Kootenai,85.14323784143905,Ice Storm
+Idaho,Canyon,81.97868087941373,Ice Storm
+Idaho,Twin Falls,64.69020652898068,Ice Storm
+Idaho,Bonner,53.66422385076616,Ice Storm
+Idaho,Elmore,43.50433044636909,Ice Storm
+Idaho,Jerome,41.372418387741504,Ice Storm
+Idaho,Shoshone,38.77415056628914,Ice Storm
+Idaho,Benewah,35.57628247834777,Ice Storm
+Idaho,Gooding,35.44303797468354,Ice Storm
+Illinois,Winnebago,96.90206528980681,Ice Storm
+Illinois,St. Clair,96.26915389740172,Ice Storm
+Illinois,Madison,95.46968687541639,Ice Storm
+Illinois,Sangamon,95.40306462358429,Ice Storm
+Illinois,Cook,90.93937375083277,Ice Storm
+Illinois,Stephenson,88.94070619586942,Ice Storm
+Illinois,Rock Island,87.3750832778148,Ice Storm
+Illinois,Ogle,87.3084610259827,Ice Storm
+Illinois,Will,87.20852764823451,Ice Storm
+Illinois,Peoria,85.17654896735509,Ice Storm
+Indiana,Vanderburgh,96.56895403064625,Ice Storm
+Indiana,Warrick,88.5742838107928,Ice Storm
+Indiana,Clark,86.20919387075283,Ice Storm
+Indiana,Lake,83.8774150566289,Ice Storm
+Indiana,Hamilton,81.74550299800133,Ice Storm
+Indiana,Tippecanoe,79.3471019320453,Ice Storm
+Indiana,Floyd,76.51565622918055,Ice Storm
+Indiana,Marion,73.95069953364424,Ice Storm
+Indiana,Posey,72.618254497002,Ice Storm
+Indiana,Knox,70.85276482345103,Ice Storm
+Iowa,Scott,92.20519653564293,Ice Storm
+Iowa,Sioux,88.70752831445702,Ice Storm
+Iowa,Pottawattamie,87.47501665556295,Ice Storm
+Iowa,Crawford,84.6435709526982,Ice Storm
+Iowa,Dubuque,82.54497001998668,Ice Storm
+Iowa,Carroll,82.34510326449033,Ice Storm
+Iowa,Lyon,76.41572285143238,Ice Storm
+Iowa,Clinton,76.08261159227182,Ice Storm
+Iowa,Johnson,71.31912058627582,Ice Storm
+Iowa,Sac,70.71952031978681,Ice Storm
+Kansas,Johnson,99.63357761492338,Ice Storm
+Kansas,Sedgwick,99.43371085942704,Ice Storm
+Kansas,Reno,99.10059960026648,Ice Storm
+Kansas,Wyandotte,98.23451032644903,Ice Storm
+Kansas,Saline,96.80213191205863,Ice Storm
+Kansas,McPherson,94.83677548301132,Ice Storm
+Kansas,Barton,94.80346435709527,Ice Storm
+Kansas,Leavenworth,94.07061958694204,Ice Storm
+Kansas,Montgomery,93.53764157228514,Ice Storm
+Kansas,Labette,93.47101932045302,Ice Storm
+Kentucky,McCracken,97.70153231179212,Ice Storm
+Kentucky,Graves,97.2684876748834,Ice Storm
+Kentucky,Hopkins,97.10193204530312,Ice Storm
+Kentucky,Calloway,96.3690872751499,Ice Storm
+Kentucky,Marshall,95.10326449033978,Ice Storm
+Kentucky,Warren,95.03664223850767,Ice Storm
+Kentucky,Christian,94.636908727515,Ice Storm
+Kentucky,Henderson,94.43704197201866,Ice Storm
+Kentucky,Fayette,94.13724183877417,Ice Storm
+Kentucky,Daviess,92.57161892071952,Ice Storm
+Louisiana,Caddo,99.06728847435045,Ice Storm
+Louisiana,East Baton Rouge,96.63557628247837,Ice Storm
+Louisiana,Tangipahoa,92.63824117255164,Ice Storm
+Louisiana,Livingston,88.77415056628915,Ice Storm
+Louisiana,Calcasieu,87.7415056628914,Ice Storm
+Louisiana,Jefferson Davis,86.04263824117255,Ice Storm
+Louisiana,Lafayette,85.90939373750834,Ice Storm
+Louisiana,Ascension,83.57761492338442,Ice Storm
+Louisiana,Beauregard,83.24450366422384,Ice Storm
+Louisiana,St. Tammany,82.51165889407062,Ice Storm
+Maine,York,98.80079946702199,Ice Storm
+Maine,Cumberland,98.13457694870087,Ice Storm
+Maine,Kennebec,97.80146568954031,Ice Storm
+Maine,Penobscot,97.30179880079946,Ice Storm
+Maine,Androscoggin,94.70353097934711,Ice Storm
+Maine,Hancock,94.57028647568288,Ice Storm
+Maine,Somerset,93.17121918720852,Ice Storm
+Maine,Waldo,92.50499666888742,Ice Storm
+Maine,Knox,92.40506329113924,Ice Storm
+Maine,Lincoln,92.00532978014655,Ice Storm
+Maryland,Baltimore,85.5429713524317,Ice Storm
+Maryland,Montgomery,81.71219187208527,Ice Storm
+Maryland,Cecil,81.47901399067288,Ice Storm
+Maryland,Prince George's,74.81678880746169,Ice Storm
+Maryland,Howard,66.95536309127247,Ice Storm
+Maryland,Washington,65.32311792138574,Ice Storm
+Maryland,Harford,65.28980679546969,Ice Storm
+Maryland,Anne Arundel,64.89007328447701,Ice Storm
+Maryland,Baltimore,64.05729513657562,Ice Storm
+Maryland,Frederick,62.958027981345765,Ice Storm
+Massachusetts,Worcester,97.2018654230513,Ice Storm
+Massachusetts,Norfolk,96.30246502331778,Ice Storm
+Massachusetts,Middlesex,91.60559626915389,Ice Storm
+Massachusetts,Hampshire,88.34110592938042,Ice Storm
+Massachusetts,Plymouth,87.64157228514325,Ice Storm
+Massachusetts,Bristol,86.67554963357762,Ice Storm
+Massachusetts,Essex,85.27648234510326,Ice Storm
+Massachusetts,Barnstable,82.21185876082612,Ice Storm
+Massachusetts,Hampden,79.64690206528981,Ice Storm
+Massachusetts,Franklin,78.34776815456361,Ice Storm
+Michigan,Oakland,99.83344437041973,Ice Storm
+Michigan,Macomb,99.66688874083944,Ice Storm
+Michigan,St. Clair,95.66955363091272,Ice Storm
+Michigan,Lapeer,90.70619586942041,Ice Storm
+Michigan,Sanilac,88.07461692205196,Ice Storm
+Michigan,Genesee,86.40906062624917,Ice Storm
+Michigan,Saginaw,86.07594936708861,Ice Storm
+Michigan,Livingston,84.87674883411059,Ice Storm
+Michigan,Ingham,84.61025982678214,Ice Storm
+Michigan,Ottawa,84.37708194536977,Ice Storm
+Minnesota,Anoka,99.40039973351101,Ice Storm
+Minnesota,Washington,97.23517654896735,Ice Storm
+Minnesota,Wright,96.16922051965356,Ice Storm
+Minnesota,Scott,94.27048634243837,Ice Storm
+Minnesota,Carver,94.1705529646902,Ice Storm
+Minnesota,Sherburne,93.40439706862091,Ice Storm
+Minnesota,Stearns,92.10526315789474,Ice Storm
+Minnesota,Chisago,87.10859427048634,Ice Storm
+Minnesota,Clay,86.24250499666888,Ice Storm
+Minnesota,Dakota,84.47701532311793,Ice Storm
+Mississippi,Lawrence,88.20786142571619,Ice Storm
+Mississippi,Bolivar,83.97734843437709,Ice Storm
+Mississippi,Hinds,83.67754830113257,Ice Storm
+Mississippi,Jones,83.2778147901399,Ice Storm
+Mississippi,Rankin,80.4796802131912,Ice Storm
+Mississippi,Lauderdale,79.71352431712192,Ice Storm
+Mississippi,Tate,79.14723517654897,Ice Storm
+Mississippi,Neshoba,78.84743504330446,Ice Storm
+Mississippi,Sunflower,78.54763491005995,Ice Storm
+Mississippi,Claiborne,78.41439040639574,Ice Storm
+Missouri,Greene,99.93337774816789,Ice Storm
+Missouri,St. Louis,99.86675549633577,Ice Storm
+Missouri,Boone,99.80013324450368,Ice Storm
+Missouri,Newton,99.30046635576282,Ice Storm
+Missouri,Cole,98.73417721518989,Ice Storm
+Missouri,St. Charles,98.20119920053298,Ice Storm
+Missouri,Dunklin,97.90139906728848,Ice Storm
+Missouri,Jefferson,97.86808794137242,Ice Storm
+Missouri,Clay,97.40173217854765,Ice Storm
+Missouri,Cass,96.6688874083944,Ice Storm
+Montana,Missoula,85.4763491005996,Ice Storm
+Montana,Ravalli,80.07994670219854,Ice Storm
+Montana,Richland,72.48500999333777,Ice Storm
+Montana,Yellowstone,66.7888074616922,Ice Storm
+Montana,Sheridan,66.22251832111925,Ice Storm
+Montana,Gallatin,56.895403064623586,Ice Storm
+Montana,Cascade,54.63024650233178,Ice Storm
+Montana,Roosevelt,52.59826782145236,Ice Storm
+Montana,Wibaux,50.56628914057294,Ice Storm
+Montana,Lake,34.27714856762159,Ice Storm
+Nebraska,Lancaster,99.90006662225184,Ice Storm
+Nebraska,Douglas,98.50099933377749,Ice Storm
+Nebraska,Hall,96.46902065289807,Ice Storm
+Nebraska,Sarpy,94.90339773484345,Ice Storm
+Nebraska,Gage,93.8707528314457,Ice Storm
+Nebraska,Madison,93.73750832778148,Ice Storm
+Nebraska,Adams,92.07195203197868,Ice Storm
+Nebraska,Saline,91.57228514323783,Ice Storm
+Nebraska,Platte,90.40639573617588,Ice Storm
+Nebraska,Seward,90.03997335109926,Ice Storm
+Nevada,Washoe,63.35776149233844,Ice Storm
+Nevada,Lyon,43.67088607594937,Ice Storm
+Nevada,Churchill,29.480346435709524,Ice Storm
+Nevada,Pershing,15.52298467688208,Ice Storm
+New Hampshire,Hillsborough,98.90073284477016,Ice Storm
+New Hampshire,Cheshire,91.43904063957362,Ice Storm
+New Hampshire,Merrimack,90.27315123251167,Ice Storm
+New Hampshire,Carroll,88.00799467021986,Ice Storm
+New Hampshire,Strafford,87.70819453697534,Ice Storm
+New Hampshire,Belknap,86.30912724850099,Ice Storm
+New Hampshire,Grafton,85.87608261159228,Ice Storm
+New Hampshire,Sullivan,77.01532311792137,Ice Storm
+New Hampshire,Rockingham,75.28314457028648,Ice Storm
+New Hampshire,Coos,61.892071952031976,Ice Storm
+New Jersey,Monmouth,99.73351099267157,Ice Storm
+New Jersey,Ocean,99.3337774816789,Ice Storm
+New Jersey,Camden,89.9400399733511,Ice Storm
+New Jersey,Middlesex,89.20719520319787,Ice Storm
+New Jersey,Bergen,87.1419053964024,Ice Storm
+New Jersey,Burlington,84.67688207861426,Ice Storm
+New Jersey,Essex,83.84410393071285,Ice Storm
+New Jersey,Passaic,80.54630246502332,Ice Storm
+New Jersey,Hudson,80.24650233177881,Ice Storm
+New Jersey,Mercer,79.54696868754164,Ice Storm
+New Mexico,Lea,79.11392405063292,Ice Storm
+New Mexico,Chaves,75.48301132578281,Ice Storm
+New Mexico,Eddy,73.61758827448368,Ice Storm
+New Mexico,Otero,60.692871419053965,Ice Storm
+New Mexico,Curry,60.493004663557635,Ice Storm
+New Mexico,Roosevelt,53.131245836109265,Ice Storm
+New Mexico,Doña Ana,47.201865423051295,Ice Storm
+New Mexico,Bernalillo,38.974017321785475,Ice Storm
+New Mexico,Lincoln,36.37574950033311,Ice Storm
+New Mexico,Colfax,26.21585609593604,Ice Storm
+New York,Nassau,100.0,Ice Storm
+New York,Suffolk,97.00199866755496,Ice Storm
+New York,Kings,94.7701532311792,Ice Storm
+New York,Onondaga,93.70419720186543,Ice Storm
+New York,Albany,93.67088607594938,Ice Storm
+New York,Oneida,93.63757495003333,Ice Storm
+New York,Jefferson,93.5709526982012,Ice Storm
+New York,Queens,93.43770819453697,Ice Storm
+New York,Ulster,91.93870752831445,Ice Storm
+New York,Bronx,91.2391738840773,Ice Storm
+North Carolina,Gaston,99.13391072618255,Ice Storm
+North Carolina,Mecklenburg,98.96735509660226,Ice Storm
+North Carolina,Cabarrus,98.86742171885412,Ice Storm
+North Carolina,Catawba,98.16788807461693,Ice Storm
+North Carolina,Union,98.00133244503664,Ice Storm
+North Carolina,Iredell,97.96802131912061,Ice Storm
+North Carolina,New Hanover,97.76815456362424,Ice Storm
+North Carolina,Cleveland,97.73484343770821,Ice Storm
+North Carolina,Lincoln,97.33510992671552,Ice Storm
+North Carolina,Burke,97.16855429713524,Ice Storm
+North Dakota,Ward,98.40106595602933,Ice Storm
+North Dakota,Williams,97.63491005996002,Ice Storm
+North Dakota,Morton,97.5016655562958,Ice Storm
+North Dakota,Stutsman,96.2358427714857,Ice Storm
+North Dakota,McLean,95.90273151232513,Ice Storm
+North Dakota,Walsh,95.63624250499669,Ice Storm
+North Dakota,Cass,95.43637574950031,Ice Storm
+North Dakota,Grand Forks,95.236508994004,Ice Storm
+North Dakota,McHenry,94.37041972018653,Ice Storm
+North Dakota,Burleigh,94.33710859427049,Ice Storm
+Ohio,Greene,96.76882078614256,Ice Storm
+Ohio,Clark,96.10259826782145,Ice Storm
+Ohio,Delaware,95.20319786808794,Ice Storm
+Ohio,Fairfield,95.13657561625583,Ice Storm
+Ohio,Hancock,93.13790806129248,Ice Storm
+Ohio,Licking,92.77148567621586,Ice Storm
+Ohio,Ross,91.63890739506996,Ice Storm
+Ohio,Clinton,91.20586275816125,Ice Storm
+Ohio,Wayne,90.67288474350434,Ice Storm
+Ohio,Pickaway,89.07395069953363,Ice Storm
+Oklahoma,Tulsa,99.96668887408394,Ice Storm
+Oklahoma,Rogers,99.5336442371752,Ice Storm
+Oklahoma,Creek,99.26715522984676,Ice Storm
+Oklahoma,Delaware,99.2338441039307,Ice Storm
+Oklahoma,Wagoner,99.20053297801464,Ice Storm
+Oklahoma,Mayes,99.00066622251833,Ice Storm
+Oklahoma,Kay,98.9340439706862,Ice Storm
+Oklahoma,Ottawa,98.56762158560959,Ice Storm
+Oklahoma,Garfield,98.46768820786143,Ice Storm
+Oklahoma,Pittsburg,98.43437708194536,Ice Storm
+Oregon,Umatilla,96.86875416389074,Ice Storm
+Oregon,Clackamas,95.6029313790806,Ice Storm
+Oregon,Lane,94.40373084610259,Ice Storm
+Oregon,Linn,88.60759493670885,Ice Storm
+Oregon,Wasco,84.71019320453031,Ice Storm
+Oregon,Benton,83.91072618254498,Ice Storm
+Oregon,Morrow,78.1479013990673,Ice Storm
+Oregon,Lincoln,71.91872085276484,Ice Storm
+Oregon,Marion,59.160559626915386,Ice Storm
+Oregon,Douglas,59.093937375083286,Ice Storm
+Pennsylvania,Philadelphia,96.1359093937375,Ice Storm
+Pennsylvania,Montgomery,90.83944037308461,Ice Storm
+Pennsylvania,Fayette,89.74017321785477,Ice Storm
+Pennsylvania,Delaware,87.50832778147901,Ice Storm
+Pennsylvania,Chester,86.80879413724185,Ice Storm
+Pennsylvania,Bucks,85.50966022651566,Ice Storm
+Pennsylvania,Lehigh,84.07728181212525,Ice Storm
+Pennsylvania,Lancaster,84.04397068620918,Ice Storm
+Pennsylvania,Berks,83.41105929380413,Ice Storm
+Pennsylvania,York,80.97934710193204,Ice Storm
+Rhode Island,Kent,86.27581612258494,Ice Storm
+Rhode Island,Providence,84.5769487008661,Ice Storm
+Rhode Island,Washington,77.14856762158561,Ice Storm
+Rhode Island,Newport,37.64157228514324,Ice Storm
+Rhode Island,Bristol,26.548967355096604,Ice Storm
+South Carolina,Richland,99.7668221185876,Ice Storm
+South Carolina,Lexington,99.50033311125917,Ice Storm
+South Carolina,Spartanburg,98.66755496335777,Ice Storm
+South Carolina,Aiken,98.26782145236508,Ice Storm
+South Carolina,Greenville,97.83477681545637,Ice Storm
+South Carolina,York,97.43504330446368,Ice Storm
+South Carolina,Cherokee,97.13524317121919,Ice Storm
+South Carolina,Greenwood,96.70219853431045,Ice Storm
+South Carolina,Anderson,96.0692871419054,Ice Storm
+South Carolina,Pickens,96.03597601598935,Ice Storm
+South Dakota,Brown,93.50433044636908,Ice Storm
+South Dakota,Davison,88.40772818121253,Ice Storm
+South Dakota,Lincoln,86.54230512991339,Ice Storm
+South Dakota,Hutchinson,86.44237175216523,Ice Storm
+South Dakota,Pennington,85.60959360426382,Ice Storm
+South Dakota,Codington,83.54430379746834,Ice Storm
+South Dakota,Grant,83.31112591605596,Ice Storm
+South Dakota,Deuel,82.4450366422385,Ice Storm
+South Dakota,Beadle,82.0786142571619,Ice Storm
+South Dakota,Douglas,81.67888074616923,Ice Storm
+Tennessee,Knox,97.53497668221186,Ice Storm
+Tennessee,Sumner,96.00266489007328,Ice Storm
+Tennessee,Wilson,95.06995336442372,Ice Storm
+Tennessee,Shelby,94.50366422385076,Ice Storm
+Tennessee,Hamilton,91.9053964023984,Ice Storm
+Tennessee,Rutherford,91.10592938041306,Ice Storm
+Tennessee,Washington,76.48234510326449,Ice Storm
+Tennessee,Macon,75.68287808127914,Ice Storm
+Tennessee,Bradley,73.4510326449034,Ice Storm
+Tennessee,DeKalb,72.38507661558961,Ice Storm
+Texas,Morris,99.60026648900732,Ice Storm
+Texas,Lamar,99.36708860759492,Ice Storm
+Texas,Bowie,98.7008660892738,Ice Storm
+Texas,Titus,98.03464357095268,Ice Storm
+Texas,Cass,96.20253164556962,Ice Storm
+Texas,Denton,95.70286475682877,Ice Storm
+Texas,Reeves,95.5363091272485,Ice Storm
+Texas,Dallas,94.60359760159893,Ice Storm
+Texas,Camp,94.1039307128581,Ice Storm
+Texas,Jefferson,93.83744170552964,Ice Storm
+Utah,Utah,83.8107928047968,Ice Storm
+Utah,Davis,72.21852098600932,Ice Storm
+Utah,Weber,72.15189873417722,Ice Storm
+Utah,Washington,66.25582944703531,Ice Storm
+Utah,Cache,53.96402398401066,Ice Storm
+Utah,Tooele,44.00399733510993,Ice Storm
+Utah,Box Elder,42.205196535642905,Ice Storm
+Utah,Summit,38.074616922051966,Ice Storm
+Utah,Iron,36.309127248501,Ice Storm
+Utah,Uintah,32.87808127914724,Ice Storm
+Vermont,Windham,86.90872751499,Ice Storm
+Vermont,Franklin,84.91005996002666,Ice Storm
+Vermont,Addison,79.78014656895404,Ice Storm
+Vermont,Chittenden,79.74683544303798,Ice Storm
+Vermont,Orleans,63.85742838107929,Ice Storm
+Vermont,Lamoille,58.294470353097935,Ice Storm
+Vermont,Washington,54.96335776149233,Ice Storm
+Vermont,Grand Isle,54.130579613590925,Ice Storm
+Vermont,Bennington,45.93604263824117,Ice Storm
+Vermont,Rutland,32.17854763491006,Ice Storm
+Virginia,Chesapeake,91.072618254497,Ice Storm
+Virginia,Fairfax,80.34643570952699,Ice Storm
+Virginia,Portsmouth,79.84676882078614,Ice Storm
+Virginia,Albemarle,77.04863424383744,Ice Storm
+Virginia,Isle of Wight,71.15256495669554,Ice Storm
+Virginia,Pulaski,69.78680879413724,Ice Storm
+Virginia,Williamsburg,68.92071952031978,Ice Storm
+Virginia,Louisa,68.42105263157895,Ice Storm
+Virginia,Newport News,65.78947368421053,Ice Storm
+Virginia,Tazewell,64.7568287808128,Ice Storm
+Washington,Spokane,93.60426382411725,Ice Storm
+Washington,Clark,93.23784143904064,Ice Storm
+Washington,Benton,85.84277148567622,Ice Storm
+Washington,Walla Walla,85.20986009327115,Ice Storm
+Washington,Pierce,78.6808794137242,Ice Storm
+Washington,Thurston,74.61692205196535,Ice Storm
+Washington,Franklin,73.85076615589607,Ice Storm
+Washington,Snohomish,68.7541638907395,Ice Storm
+Washington,Kitsap,68.62091938707529,Ice Storm
+Washington,Whatcom,68.05463024650234,Ice Storm
+West Virginia,Kanawha,86.50899400399733,Ice Storm
+West Virginia,Monongalia,83.61092604930047,Ice Storm
+West Virginia,Ohio,82.6782145236509,Ice Storm
+West Virginia,Marshall,77.81479013990673,Ice Storm
+West Virginia,Cabell,75.7161892071952,Ice Storm
+West Virginia,Wood,73.88407728181213,Ice Storm
+West Virginia,Harrison,70.45303131245836,Ice Storm
+West Virginia,Marion,67.05529646902065,Ice Storm
+West Virginia,Preston,65.82278481012658,Ice Storm
+West Virginia,Greenbrier,65.62291805463025,Ice Storm
+Wisconsin,Dane,97.46835443037975,Ice Storm
+Wisconsin,Eau Claire,95.26982011992004,Ice Storm
+Wisconsin,Rock,91.27248500999335,Ice Storm
+Wisconsin,Chippewa,90.97268487674883,Ice Storm
+Wisconsin,St. Croix,89.40706195869421,Ice Storm
+Wisconsin,Dunn,86.74217188540972,Ice Storm
+Wisconsin,Marathon,84.97668221185876,Ice Storm
+Wisconsin,Waukesha,84.24383744170552,Ice Storm
+Wisconsin,Barron,83.74417055296469,Ice Storm
+Wisconsin,Polk,83.2111925383078,Ice Storm
+Wyoming,Laramie,70.68620919387075,Ice Storm
+Wyoming,Natrona,65.45636242504996,Ice Storm
+Wyoming,Fremont,53.364423717521646,Ice Storm
+Wyoming,Park,43.271152564956694,Ice Storm
+Wyoming,Campbell,42.63824117255163,Ice Storm
+Wyoming,Albany,39.54030646235843,Ice Storm
+Wyoming,Carbon,34.343770819453695,Ice Storm
+Wyoming,Sheridan,34.07728181212525,Ice Storm
+Wyoming,Teton,33.84410393071286,Ice Storm
+Wyoming,Sweetwater,32.34510326449034,Ice Storm
+Alabama,Mobile,99.41677882458502,Hurricane
+Alabama,Baldwin,98.87842081650965,Hurricane
+Alabama,Escambia,95.46882009869896,Hurricane
+Alabama,Covington,94.07806191117093,Hurricane
+Alabama,Coffee,93.76401973979364,Hurricane
+Alabama,Houston,93.53970390309557,Hurricane
+Alabama,Dale,88.55989232839839,Hurricane
+Alabama,Clarke,86.58591296545536,Hurricane
+Alabama,Choctaw,85.95782862270077,Hurricane
+Alabama,Geneva,84.61193360251234,Hurricane
+Arizona,Maricopa,46.523104531179904,Hurricane
+Arizona,Pima,40.1973979362943,Hurricane
+Arizona,Cochise,33.692238672050244,Hurricane
+Arizona,Pinal,21.220278151637505,Hurricane
+Arizona,Santa Cruz,17.855540601166442,Hurricane
+Arizona,Yuma,17.317182593091072,Hurricane
+Arizona,Graham,14.625392552714224,Hurricane
+Arizona,Apache,13.369223867205024,Hurricane
+Arizona,Gila,8.658591296545536,Hurricane
+Arizona,La Paz,6.55002243158367,Hurricane
+Arkansas,Pulaski,69.22386720502467,Hurricane
+Arkansas,Jefferson,60.47554957379992,Hurricane
+Arkansas,Garland,58.68102288021534,Hurricane
+Arkansas,Chicot,58.36698070883804,Hurricane
+Arkansas,Ashley,57.738896366083445,Hurricane
+Arkansas,Hempstead,57.11081202332885,Hurricane
+Arkansas,Columbia,57.065948855989234,Hurricane
+Arkansas,Union,56.75190668461194,Hurricane
+Arkansas,Lafayette,54.643337819650064,Hurricane
+Arkansas,Desha,54.19470614625392,Hurricane
+California,Riverside,27.18707940780619,Hurricane
+California,San Diego,25.34768954688201,Hurricane
+California,Imperial,15.163750560789593,Hurricane
+Connecticut,Fairfield,97.03903095558546,Hurricane
+Connecticut,New Haven,96.59039928218932,Hurricane
+Connecticut,Hartford,94.3472409152086,Hurricane
+Connecticut,New London,92.7321668909825,Hurricane
+Connecticut,Litchfield,90.30955585464332,Hurricane
+Connecticut,Middlesex,88.38043965903994,Hurricane
+Connecticut,Windham,86.40646029609691,Hurricane
+Connecticut,Tolland,85.19515477792731,Hurricane
+Delaware,Sussex,95.10991475998205,Hurricane
+Delaware,New Castle,91.43113503813369,Hurricane
+Delaware,Kent,89.72633467922836,Hurricane
+District of Columbia,District of Columbia,88.87393449977569,Hurricane
+Florida,Miami-Dade,99.95513683266039,Hurricane
+Florida,Broward,99.91027366532077,Hurricane
+Florida,Palm Beach,99.86541049798117,Hurricane
+Florida,Hillsborough,99.82054733064155,Hurricane
+Florida,Lee,99.77568416330192,Hurricane
+Florida,Brevard,99.7308209959623,Hurricane
+Florida,Pinellas,99.68595782862269,Hurricane
+Florida,Pasco,99.59623149394349,Hurricane
+Florida,Collier,99.50650515926424,Hurricane
+Florida,Sarasota,99.32705248990578,Hurricane
+Georgia,Chatham,99.46164199192464,Hurricane
+Georgia,Liberty,96.9044414535666,Hurricane
+Georgia,Glynn,95.06505159264245,Hurricane
+Georgia,Bulloch,93.9434724091521,Hurricane
+Georgia,Bryan,93.80888290713325,Hurricane
+Georgia,Thomas,92.50785105428444,Hurricane
+Georgia,Camden,92.19380888290712,Hurricane
+Georgia,Tattnall,91.52086137281293,Hurricane
+Georgia,McIntosh,90.13010318528488,Hurricane
+Georgia,Decatur,89.36742934051144,Hurricane
+Hawaii,Honolulu,88.42530282637954,Hurricane
+Hawaii,Maui,85.28488111260654,Hurricane
+Hawaii,Hawaii,82.18932256617317,Hurricane
+Hawaii,Kauai,75.0112157918349,Hurricane
+Hawaii,Kalawao,13.324360699865412,Hurricane
+Illinois,Cook,62.18034993270525,Hurricane
+Illinois,Champaign,48.0933153880664,Hurricane
+Illinois,DuPage,46.29878869448183,Hurricane
+Illinois,Will,44.72857783759533,Hurricane
+Illinois,Vermilion,41.22925078510542,Hurricane
+Illinois,Williamson,40.825482279048906,Hurricane
+Illinois,St. Clair,40.06280843427545,Hurricane
+Illinois,Coles,39.2552714221624,Hurricane
+Illinois,Jefferson,37.864513234634366,Hurricane
+Illinois,Jackson,37.64019739793629,Hurricane
+Indiana,Elkhart,51.054284432480934,Hurricane
+Indiana,Tippecanoe,49.66352624495289,Hurricane
+Indiana,Marion,48.90085240017945,Hurricane
+Indiana,St. Joseph,46.253925527142215,Hurricane
+Indiana,Kosciusko,44.818304172274566,Hurricane
+Indiana,Allen,44.638851502916104,Hurricane
+Indiana,Hamilton,42.88918797667115,Hurricane
+Indiana,Vigo,42.7097353073127,Hurricane
+Indiana,LaGrange,41.36384028712427,Hurricane
+Indiana,Marshall,39.16554508748318,Hurricane
+Iowa,Polk,26.51413189771198,Hurricane
+Iowa,Lee,12.741139524450428,Hurricane
+Iowa,Des Moines,12.427097353073128,Hurricane
+Iowa,Black Hawk,12.202781516375056,Hurricane
+Iowa,Scott,11.888739344997756,Hurricane
+Iowa,Linn,11.529834006280844,Hurricane
+Iowa,Johnson,11.036339165545089,Hurricane
+Iowa,Marshall,9.196949304620906,Hurricane
+Iowa,Muscatine,9.152086137281293,Hurricane
+Iowa,Story,9.062359802602064,Hurricane
+Kansas,Sedgwick,40.69089277703006,Hurricane
+Kansas,Crawford,24.988784208165097,Hurricane
+Kansas,Montgomery,24.49528936742934,Hurricane
+Kansas,Labette,24.3606998654105,Hurricane
+Kansas,Butler,21.534320323014803,Hurricane
+Kansas,Cherokee,21.310004486316732,Hurricane
+Kansas,Neosho,16.33019291161956,Hurricane
+Kansas,Cowley,16.195603409600718,Hurricane
+Kansas,Bourbon,13.189771197846568,Hurricane
+Kansas,Harper,12.382234185733513,Hurricane
+Kentucky,Fayette,55.899506505159266,Hurricane
+Kentucky,Pulaski,55.85464333781965,Hurricane
+Kentucky,Floyd,54.23956931359354,Hurricane
+Kentucky,Pike,53.746074472857785,Hurricane
+Kentucky,Madison,52.938537460744726,Hurricane
+Kentucky,Laurel,50.69537909376402,Hurricane
+Kentucky,Boyd,48.31763122476447,Hurricane
+Kentucky,Jefferson,45.62584118438762,Hurricane
+Kentucky,Whitley,44.54912516823688,Hurricane
+Kentucky,Carter,42.620008972633464,Hurricane
+Louisiana,Jefferson,98.96814715118887,Hurricane
+Louisiana,Orleans,98.42978914311348,Hurricane
+Louisiana,Terrebonne,97.89143113503813,Hurricane
+Louisiana,St. Tammany,97.84656796769853,Hurricane
+Louisiana,Lafayette,97.66711529834006,Hurricane
+Louisiana,East Baton Rouge,97.62225213100045,Hurricane
+Louisiana,Calcasieu,97.442799461642,Hurricane
+Louisiana,Tangipahoa,96.99416778824586,Hurricane
+Louisiana,Lafourche,96.8147151188874,Hurricane
+Louisiana,Ascension,96.76985195154778,Hurricane
+Maine,Cumberland,89.95065051592643,Hurricane
+Maine,York,88.78420816509646,Hurricane
+Maine,Kennebec,87.57290264692688,Hurricane
+Maine,Penobscot,85.10542844324809,Hurricane
+Maine,Androscoggin,84.8362494392104,Hurricane
+Maine,Hancock,84.34275459847466,Hurricane
+Maine,Somerset,83.13144908030506,Hurricane
+Maine,Oxford,81.83041722745625,Hurricane
+Maine,Washington,80.34993270524899,Hurricane
+Maine,Knox,80.17048003589053,Hurricane
+Maryland,Baltimore,96.36608344549124,Hurricane
+Maryland,Montgomery,96.1866307761328,Hurricane
+Maryland,Prince George's,96.14176760879319,Hurricane
+Maryland,Baltimore,95.51368326603857,Hurricane
+Maryland,Anne Arundel,94.16778824585016,Hurricane
+Maryland,Wicomico,93.00134589502021,Hurricane
+Maryland,Worcester,92.28353521758636,Hurricane
+Maryland,St. Mary's,90.39928218932256,Hurricane
+Maryland,Harford,89.41229250785105,Hurricane
+Maryland,Howard,87.97667115298339,Hurricane
+Massachusetts,Middlesex,97.39793629430238,Hurricane
+Massachusetts,Essex,95.73799910273664,Hurricane
+Massachusetts,Norfolk,95.69313593539705,Hurricane
+Massachusetts,Worcester,95.55854643337821,Hurricane
+Massachusetts,Suffolk,94.97532525796322,Hurricane
+Massachusetts,Bristol,94.48183041722744,Hurricane
+Massachusetts,Plymouth,94.03319874383133,Hurricane
+Massachusetts,Nantucket,92.86675639300137,Hurricane
+Massachusetts,Barnstable,92.82189322566173,Hurricane
+Massachusetts,Hampden,89.59174517720952,Hurricane
+Michigan,Wayne,64.15432929564827,Hurricane
+Michigan,Oakland,62.22521310004486,Hurricane
+Michigan,Macomb,59.66801256168686,Hurricane
+Michigan,Saginaw,50.560789591745184,Hurricane
+Michigan,Huron,49.214894571556755,Hurricane
+Michigan,Sanilac,47.91386271870794,Hurricane
+Michigan,Ingham,47.24091520861373,Hurricane
+Michigan,Washtenaw,47.1511888739345,Hurricane
+Michigan,Kalamazoo,46.43337819650067,Hurricane
+Michigan,Genesee,44.19021982951997,Hurricane
+Minnesota,Houston,1.480484522207268,Hurricane
+Mississippi,Harrison,98.25033647375504,Hurricane
+Mississippi,Jackson,97.4876626289816,Hurricane
+Mississippi,Pearl River,94.9304620906236,Hurricane
+Mississippi,George,93.58456707043517,Hurricane
+Mississippi,Hancock,92.68730372364288,Hurricane
+Mississippi,Stone,91.20681920143562,Hurricane
+Mississippi,Jones,90.21982951996411,Hurricane
+Mississippi,Forrest,89.5468820098699,Hurricane
+Mississippi,Lamar,88.02153432032301,Hurricane
+Mississippi,Marion,86.89995513683266,Hurricane
+Missouri,St. Louis,53.52175863615971,Hurricane
+Missouri,Butler,43.42754598474652,Hurricane
+Missouri,Dunklin,43.113503813369235,Hurricane
+Missouri,Stoddard,41.58815612382234,Hurricane
+Missouri,Howell,40.55630327501122,Hurricane
+Missouri,St. Louis,39.38986092418125,Hurricane
+Missouri,Greene,38.71691341408703,Hurricane
+Missouri,Taney,38.22341857335128,Hurricane
+Missouri,St. Francois,38.17855540601166,Hurricane
+Missouri,Jasper,37.326155226558996,Hurricane
+New Hampshire,Hillsborough,91.38627187079408,Hurricane
+New Hampshire,Rockingham,88.82907133243606,Hurricane
+New Hampshire,Merrimack,85.73351278600269,Hurricane
+New Hampshire,Carroll,83.22117541498429,Hurricane
+New Hampshire,Strafford,81.56123822341857,Hurricane
+New Hampshire,Grafton,77.8375953342306,Hurricane
+New Hampshire,Belknap,77.47868999551369,Hurricane
+New Hampshire,Cheshire,76.71601615074024,Hurricane
+New Hampshire,Coos,69.80708838043967,Hurricane
+New Hampshire,Sullivan,68.90982503364738,Hurricane
+New Jersey,Monmouth,95.78286227007627,Hurricane
+New Jersey,Bergen,95.64827276805742,Hurricane
+New Jersey,Ocean,95.37909376401974,Hurricane
+New Jersey,Middlesex,95.2445042620009,Hurricane
+New Jersey,Atlantic,94.66128308658593,Hurricane
+New Jersey,Essex,92.77703005832213,Hurricane
+New Jersey,Hudson,92.64244055630328,Hurricane
+New Jersey,Mercer,91.79004037685061,Hurricane
+New Jersey,Burlington,91.65545087483176,Hurricane
+New Jersey,Cape May,91.1170928667564,Hurricane
+New Mexico,Doña Ana,43.92104082548228,Hurricane
+New Mexico,Lea,40.780619111709285,Hurricane
+New Mexico,Chaves,38.35800807537012,Hurricane
+New Mexico,Roosevelt,31.76312247644684,Hurricane
+New Mexico,Otero,28.30865859129655,Hurricane
+New Mexico,Eddy,27.276805742485426,Hurricane
+New Mexico,Lincoln,17.137729923732614,Hurricane
+New Mexico,Luna,9.690444145356665,Hurricane
+New Mexico,Sierra,8.299685957828624,Hurricane
+New Mexico,Grant,7.222969941677883,Hurricane
+New York,Suffolk,98.02602063705696,Hurricane
+New York,Kings,97.8017048003589,Hurricane
+New York,Queens,97.21848362494391,Hurricane
+New York,Nassau,97.1736204576043,Hurricane
+New York,New York,96.68012561686857,Hurricane
+New York,Bronx,96.05204127411395,Hurricane
+New York,Westchester,95.87258860475549,Hurricane
+New York,Richmond,91.02736653207717,Hurricane
+New York,Rockland,88.33557649170032,Hurricane
+New York,Orange,86.85509196949305,Hurricane
+North Carolina,New Hanover,99.37191565724541,Hurricane
+North Carolina,Onslow,99.01301031852849,Hurricane
+North Carolina,Carteret,98.56437864513236,Hurricane
+North Carolina,Brunswick,98.38492597577388,Hurricane
+North Carolina,Craven,98.07088380439659,Hurricane
+North Carolina,Dare,97.57738896366085,Hurricane
+North Carolina,Beaufort,97.08389412292509,Hurricane
+North Carolina,Pender,96.63526244952892,Hurricane
+North Carolina,Sampson,96.54553611484972,Hurricane
+North Carolina,Duplin,96.32122027815164,Hurricane
+Ohio,Cuyahoga,68.23687752355316,Hurricane
+Ohio,Trumbull,65.54508748317632,Hurricane
+Ohio,Mahoning,65.00672947510094,Hurricane
+Ohio,Ashtabula,62.89816061013907,Hurricane
+Ohio,Columbiana,59.309107222969935,Hurricane
+Ohio,Summit,58.59129654553612,Hurricane
+Ohio,Washington,57.96321220278151,Hurricane
+Ohio,Jefferson,57.46971736204576,Hurricane
+Ohio,Franklin,57.42485419470614,Hurricane
+Ohio,Lorain,57.245401525347695,Hurricane
+Oklahoma,Tulsa,56.16868550919694,Hurricane
+Oklahoma,Oklahoma,55.00224315836697,Hurricane
+Oklahoma,Muskogee,47.734410049349485,Hurricane
+Oklahoma,McCurtain,47.061462539255274,Hurricane
+Oklahoma,Cleveland,45.8950201884253,Hurricane
+Oklahoma,Le Flore,43.24809331538806,Hurricane
+Oklahoma,Bryan,43.15836698070884,Hurricane
+Oklahoma,Comanche,42.30596680125617,Hurricane
+Oklahoma,Carter,42.21624046657694,Hurricane
+Oklahoma,Pittsburg,40.5114401076716,Hurricane
+Pennsylvania,Philadelphia,95.42395693135936,Hurricane
+Pennsylvania,Lancaster,93.18079856437866,Hurricane
+Pennsylvania,Montgomery,93.04620906235981,Hurricane
+Pennsylvania,Bucks,91.61058770749216,Hurricane
+Pennsylvania,Chester,91.25168236877525,Hurricane
+Pennsylvania,Delaware,90.98250336473757,Hurricane
+Pennsylvania,York,90.17496635262448,Hurricane
+Pennsylvania,Berks,88.9187976671153,Hurricane
+Pennsylvania,Dauphin,86.13728129205921,Hurricane
+Pennsylvania,Lehigh,85.91296545536115,Hurricane
+Rhode Island,Providence,93.44997756841632,Hurricane
+Rhode Island,Kent,87.21399730820995,Hurricane
+Rhode Island,Washington,87.07940780619114,Hurricane
+Rhode Island,Newport,84.25302826379543,Hurricane
+Rhode Island,Bristol,77.56841633019292,Hurricane
+South Carolina,Charleston,99.64109466128309,Hurricane
+South Carolina,Horry,99.55136832660388,Hurricane
+South Carolina,Beaufort,99.10273665320773,Hurricane
+South Carolina,Berkeley,98.60924181247196,Hurricane
+South Carolina,Dorchester,97.98115746971736,Hurricane
+South Carolina,Georgetown,97.35307312696277,Hurricane
+South Carolina,Florence,95.60340960071781,Hurricane
+South Carolina,Orangeburg,95.19964109466127,Hurricane
+South Carolina,Dillon,94.61641991924628,Hurricane
+South Carolina,Jasper,94.39210408254823,Hurricane
+Tennessee,Shelby,72.09510991475997,Hurricane
+Tennessee,Rutherford,61.327949753252575,Hurricane
+Tennessee,Hamilton,60.96904441453567,Hurricane
+Tennessee,Knox,59.757738896366085,Hurricane
+Tennessee,Davidson,59.39883355764917,Hurricane
+Tennessee,Madison,59.219380888290715,Hurricane
+Tennessee,Bradley,56.796769851951545,Hurricane
+Tennessee,Washington,54.55361148497085,Hurricane
+Tennessee,Bedford,53.65634813817856,Hurricane
+Tennessee,Monroe,53.073126962763574,Hurricane
+Texas,Harris,100.0,Hurricane
+Texas,Hidalgo,99.28218932256618,Hurricane
+Texas,Fort Bend,99.23732615522655,Hurricane
+Texas,Cameron,98.83355764917005,Hurricane
+Texas,Brazoria,98.51951547779272,Hurricane
+Texas,Galveston,98.34006280843428,Hurricane
+Texas,Nueces,98.29519964109467,Hurricane
+Texas,Jefferson,97.71197846567968,Hurricane
+Texas,Montgomery,95.82772543741589,Hurricane
+Texas,Victoria,95.28936742934053,Hurricane
+Vermont,Windham,75.72902646926873,Hurricane
+Vermont,Windsor,73.21668909825034,Hurricane
+Vermont,Rutland,71.91565724540152,Hurricane
+Vermont,Bennington,71.06325706594886,Hurricane
+Vermont,Washington,69.35845670704352,Hurricane
+Vermont,Chittenden,68.77523553162852,Hurricane
+Vermont,Caledonia,67.78824585015703,Hurricane
+Vermont,Orange,66.80125616868551,Hurricane
+Vermont,Addison,64.37864513234635,Hurricane
+Vermont,Orleans,62.270076267384475,Hurricane
+Virginia,Fairfax,96.94930462090625,Hurricane
+Virginia,Chesapeake,94.84073575594437,Hurricane
+Virginia,Norfolk,94.70614625392552,Hurricane
+Virginia,Newport News,94.12292507851055,Hurricane
+Virginia,Accomack,93.89860924181247,Hurricane
+Virginia,Chesterfield,93.62943023777478,Hurricane
+Virginia,Virginia Beach,91.96949304620907,Hurricane
+Virginia,Hampton,91.87976671152983,Hurricane
+Virginia,Prince William,90.89277703005833,Hurricane
+Virginia,York,90.04037685060565,Hurricane
+West Virginia,Berkeley,78.68999551368326,Hurricane
+West Virginia,Jefferson,74.24854194706147,Hurricane
+West Virginia,Hardy,64.69268730372364,Hurricane
+West Virginia,Kanawha,64.33378196500674,Hurricane
+West Virginia,Monongalia,63.21220278151638,Hurricane
+West Virginia,Harrison,60.52041274113953,Hurricane
+West Virginia,Hampshire,60.34096007178107,Hurricane
+West Virginia,Marion,59.35397039030955,Hurricane
+West Virginia,Morgan,59.264244055630336,Hurricane
+West Virginia,Wood,58.950201884253026,Hurricane
+Wisconsin,Dane,34.05114401076716,Hurricane
+Wisconsin,Brown,29.250785105428445,Hurricane
+Wisconsin,Milwaukee,28.71242709735307,Hurricane
+Wisconsin,Waukesha,24.001794526693583,Hurricane
+Wisconsin,Outagamie,23.014804845222073,Hurricane
+Wisconsin,Dodge,22.43158366980709,Hurricane
+Wisconsin,Fond du Lac,21.668909825033648,Hurricane
+Wisconsin,Sheboygan,21.35486765365635,Hurricane
+Wisconsin,Manitowoc,21.17541498429789,Hurricane
+Wisconsin,Winnebago,21.085688649618664,Hurricane
+Alabama,Bullock,95.03658924594336,Drought
+Alabama,Houston,91.02768055997454,Drought
+Alabama,Geneva,87.11422208081451,Drought
+Alabama,Henry,87.05058860960865,Drought
+Alabama,Baldwin,86.79605472478524,Drought
+Alabama,Mobile,86.03245307031499,Drought
+Alabama,Barbour,80.68724148902324,Drought
+Alabama,Escambia,80.46452433980274,Drought
+Alabama,Coffee,80.2099904549793,Drought
+Alabama,Russell,80.01909004136175,Drought
+Alaska,Kenai Peninsula,14.985682468978684,Drought
+Alaska,Aleutians East,0.0,Drought
+Alaska,Aleutians West,0.0,Drought
+Alaska,Anchorage,0.0,Drought
+Alaska,Bethel,0.0,Drought
+Alaska,Bristol Bay,0.0,Drought
+Alaska,Chugach,0.0,Drought
+Alaska,Copper River,0.0,Drought
+Alaska,Denali,0.0,Drought
+Alaska,Dillingham,0.0,Drought
+Arizona,Pinal,99.61819917276488,Drought
+Arizona,Cochise,99.17276487432389,Drought
+Arizona,Graham,98.85459751829461,Drought
+Arizona,Pima,98.6000636334712,Drought
+Arizona,Navajo,95.54565701559021,Drought
+Arizona,Apache,95.25930639516386,Drought
+Arizona,Santa Cruz,94.4638880050907,Drought
+Arizona,La Paz,86.66878778237354,Drought
+Arizona,Maricopa,85.84155265669743,Drought
+Arizona,Yuma,84.63251670378618,Drought
+Arkansas,Mississippi,98.44097995545657,Drought
+Arkansas,Craighead,97.39102768055997,Drought
+Arkansas,Crittenden,97.2001272669424,Drought
+Arkansas,Poinsett,96.46834234807508,Drought
+Arkansas,Lee,95.60929048679604,Drought
+Arkansas,St. Francis,95.57747375119312,Drought
+Arkansas,Cross,95.195672923958,Drought
+Arkansas,Woodruff,94.3684377982819,Drought
+Arkansas,Prairie,93.7002863506204,Drought
+Arkansas,Lonoke,92.58670060451799,Drought
+California,Santa Barbara,100.0,Drought
+California,Yolo,99.96818326439707,Drought
+California,Sutter,99.93636652879412,Drought
+California,Napa,99.90454979319122,Drought
+California,Colusa,99.87273305758829,Drought
+California,Glenn,99.84091632198536,Drought
+California,Butte,99.80909958638243,Drought
+California,Sonoma,99.77728285077951,Drought
+California,Sacramento,99.74546611517657,Drought
+California,Solano,99.71364937957365,Drought
+Colorado,Yuma,71.26948775055679,Drought
+Colorado,Kit Carson,68.37416481069042,Drought
+Colorado,Rio Grande,64.96977410117722,Drought
+Colorado,Saguache,64.8425071587655,Drought
+Colorado,Alamosa,63.53802099904551,Drought
+Colorado,Prowers,62.55170219535475,Drought
+Colorado,Weld,60.038180082723514,Drought
+Colorado,Phillips,58.32007636016545,Drought
+Colorado,Baca,58.065542475342035,Drought
+Colorado,Cheyenne,56.92013999363665,Drought
+Connecticut,Hartford,97.86827871460389,Drought
+Connecticut,New Haven,91.18676423798918,Drought
+Connecticut,Tolland,87.84600699968183,Drought
+Connecticut,Middlesex,85.77791918549157,Drought
+Connecticut,Litchfield,82.59624562519885,Drought
+Connecticut,New London,80.33725739739103,Drought
+Connecticut,Windham,66.49697741011772,Drought
+Connecticut,Fairfield,53.86573337575564,Drought
+Delaware,New Castle,79.3827553293032,Drought
+Delaware,Kent,72.38307349665925,Drought
+Delaware,Sussex,63.98345529748648,Drought
+District of Columbia,District of Columbia,0.0,Drought
+Florida,Palm Beach,98.9500477251034,Drought
+Florida,Hillsborough,98.56824689786829,Drought
+Florida,Hendry,98.4727966910595,Drought
+Florida,Miami-Dade,98.1228125994273,Drought
+Florida,Manatee,97.9955456570156,Drought
+Florida,Polk,97.96372892141267,Drought
+Florida,Orange,97.58192809417754,Drought
+Florida,Highlands,97.35921094495704,Drought
+Florida,DeSoto,96.97741011772192,Drought
+Florida,Collier,96.75469296850144,Drought
+Georgia,Burke,97.70919503658925,Drought
+Georgia,Bulloch,97.45466115176583,Drought
+Georgia,Screven,96.34107540566336,Drought
+Georgia,Worth,95.86382437161949,Drought
+Georgia,Dooly,94.6229716831053,Drought
+Georgia,Quitman,92.01399936366528,Drought
+Georgia,Sumter,90.58224626153357,Drought
+Georgia,Peach,90.45497931912185,Drought
+Georgia,Jenkins,90.13681196309257,Drought
+Georgia,Crisp,89.81864460706333,Drought
+Hawaii,Kauai,56.761056315622014,Drought
+Hawaii,Maui,45.43429844097995,Drought
+Hawaii,Hawaii,40.78905504295259,Drought
+Hawaii,Honolulu,19.758192809417753,Drought
+Hawaii,Kalawao,0.0,Drought
+Idaho,Bingham,79.03277123767101,Drought
+Idaho,Minidoka,77.02831689468661,Drought
+Idaho,Power,75.88291441298122,Drought
+Idaho,Cassia,75.08749602290807,Drought
+Idaho,Twin Falls,70.09226853324849,Drought
+Idaho,Jefferson,69.90136811963093,Drought
+Idaho,Jerome,69.48775055679288,Drought
+Idaho,Canyon,62.51988545975183,Drought
+Idaho,Gooding,60.86541520839962,Drought
+Idaho,Madison,60.19726376073815,Drought
+Illinois,Bureau,95.32293986636972,Drought
+Illinois,Henry,93.82755329303212,Drought
+Illinois,Lee,93.38211899459117,Drought
+Illinois,Logan,93.22303531657653,Drought
+Illinois,McLean,92.23671651288576,Drought
+Illinois,Ogle,91.88673242125358,Drought
+Illinois,Peoria,91.85491568565064,Drought
+Illinois,Mason,90.74132993954821,Drought
+Illinois,Tazewell,90.67769646834235,Drought
+Illinois,Sangamon,89.72319440025454,Drought
+Indiana,Gibson,92.55488386891504,Drought
+Indiana,Knox,88.95959274578428,Drought
+Indiana,Daviess,82.72351256761057,Drought
+Indiana,Montgomery,72.54215717467389,Drought
+Indiana,Sullivan,72.28762328985046,Drought
+Indiana,Parke,70.72860324530703,Drought
+Indiana,Clinton,69.93318485523386,Drought
+Indiana,Vanderburgh,68.78778237352847,Drought
+Indiana,Fountain,68.62869869551385,Drought
+Indiana,Boone,68.59688195991092,Drought
+Iowa,Calhoun,97.4228444161629,Drought
+Iowa,Kossuth,97.16831053133949,Drought
+Iowa,Tama,97.10467706013364,Drought
+Iowa,Webster,97.04104358892778,Drought
+Iowa,Marshall,96.69105949729557,Drought
+Iowa,Greene,96.27744193445751,Drought
+Iowa,O'Brien,96.1501749920458,Drought
+Iowa,Sac,96.1183582564429,Drought
+Iowa,Crawford,95.7683741648107,Drought
+Iowa,Story,95.73655742920776,Drought
+Kansas,Meade,97.67737830098633,Drought
+Kansas,Stevens,97.26376073814825,Drought
+Kansas,Wichita,97.00922685332485,Drought
+Kansas,Greeley,96.53197581928094,Drought
+Kansas,Finney,96.43652561247217,Drought
+Kansas,Gray,95.92745784282533,Drought
+Kansas,Wallace,95.70474069360485,Drought
+Kansas,Stanton,94.75023862551703,Drought
+Kansas,Scott,94.68660515431117,Drought
+Kansas,Haskell,94.52752147629653,Drought
+Kentucky,Trigg,87.6869233216672,Drought
+Kentucky,Union,87.33693923003501,Drought
+Kentucky,Caldwell,85.87336939230035,Drought
+Kentucky,Christian,85.587018771874,Drought
+Kentucky,Henderson,83.8052815781101,Drought
+Kentucky,Ballard,82.75532930321349,Drought
+Kentucky,Carlisle,81.60992682150811,Drought
+Kentucky,Crittenden,81.03722558065543,Drought
+Kentucky,Calloway,80.59179128221444,Drought
+Kentucky,Webster,79.2554883868915,Drought
+Louisiana,Assumption,97.61374482978049,Drought
+Louisiana,Avoyelles,96.08654152083997,Drought
+Louisiana,St. Landry,95.51384027998729,Drought
+Louisiana,Vermilion,94.24117085587021,Drought
+Louisiana,Rapides,92.14126630607699,Drought
+Louisiana,Jefferson Davis,91.91854915685653,Drought
+Louisiana,Caddo,90.70951320394528,Drought
+Louisiana,Acadia,90.23226216990136,Drought
+Louisiana,St. Mary,90.10499522748965,Drought
+Louisiana,St. James,89.62774419344576,Drought
+Maine,Somerset,97.2955774737512,Drought
+Maine,Aroostook,96.30925867006044,Drought
+Maine,Washington,92.42761692650335,Drought
+Maine,Penobscot,87.71874005727013,Drought
+Maine,York,84.31434934775692,Drought
+Maine,Androscoggin,84.282532612154,Drought
+Maine,Kennebec,81.89627744193446,Drought
+Maine,Waldo,78.07826916958322,Drought
+Maine,Hancock,77.41011772192172,Drought
+Maine,Cumberland,76.77378300986318,Drought
+Maryland,Cecil,98.3455297486478,Drought
+Maryland,Queen Anne's,98.31371301304486,Drought
+Maryland,Kent,98.09099586382438,Drought
+Maryland,Caroline,98.05917912822144,Drought
+Maryland,Talbot,94.08208717785557,Drought
+Maryland,Worcester,88.76869233216672,Drought
+Maryland,Frederick,81.73719376391982,Drought
+Maryland,Montgomery,81.38720967228763,Drought
+Maryland,Howard,77.53738466433344,Drought
+Maryland,Baltimore,76.80559974546611,Drought
+Massachusetts,Middlesex,96.94559338211901,Drought
+Massachusetts,Plymouth,93.95482023544383,Drought
+Massachusetts,Hampshire,93.57301940820871,Drought
+Massachusetts,Essex,93.00031816735603,Drought
+Massachusetts,Worcester,92.04581609926822,Drought
+Massachusetts,Hampden,88.22780782691696,Drought
+Massachusetts,Franklin,85.93700286350621,Drought
+Massachusetts,Bristol,85.45975182946229,Drought
+Massachusetts,Barnstable,61.724467069678646,Drought
+Massachusetts,Norfolk,60.642698059179125,Drought
+Michigan,St. Joseph,41.23448934139357,Drought
+Michigan,Branch,39.23003499840917,Drought
+Michigan,Houghton,26.248806872414892,Drought
+Michigan,Ontonagon,25.96245625198855,Drought
+Michigan,Delta,25.389755011135858,Drought
+Michigan,Baraga,24.97613744829781,Drought
+Michigan,Dickinson,23.92618517340121,Drought
+Michigan,Menominee,22.68533248488705,Drought
+Michigan,Hillsdale,22.144447979637288,Drought
+Michigan,Marquette,20.967228762328983,Drought
+Minnesota,Renville,95.8001909004136,Drought
+Minnesota,Faribault,95.16385618835508,Drought
+Minnesota,Martin,94.78205536111997,Drought
+Minnesota,Freeborn,94.33662106267896,Drought
+Minnesota,Redwood,93.79573655742922,Drought
+Minnesota,Blue Earth,93.76391982182629,Drought
+Minnesota,Mower,93.0957683741648,Drought
+Minnesota,Cottonwood,92.3958001909004,Drought
+Minnesota,Nobles,92.07763283487114,Drought
+Minnesota,Polk,91.695832007636,Drought
+Mississippi,Washington,88.13235762010818,Drought
+Mississippi,Bolivar,83.9325485205218,Drought
+Mississippi,Humphreys,80.75087496022908,Drought
+Mississippi,Sharkey,80.71905822462617,Drought
+Mississippi,Tunica,79.57365574292078,Drought
+Mississippi,Tallahatchie,79.47820553611199,Drought
+Mississippi,Sunflower,79.31912185809736,Drought
+Mississippi,Holmes,77.76010181355393,Drought
+Mississippi,Coahoma,77.72828507795101,Drought
+Mississippi,Yazoo,77.63283487114222,Drought
+Missouri,Nodaway,95.4502068087814,Drought
+Missouri,Atchison,93.89118676423799,Drought
+Missouri,Holt,92.93668469615017,Drought
+Missouri,Dunklin,92.20489977728286,Drought
+Missouri,Andrew,91.28221444479797,Drought
+Missouri,Harrison,89.85046134266625,Drought
+Missouri,Pemiscot,89.78682787146039,Drought
+Missouri,Livingston,89.59592745784283,Drought
+Missouri,Grundy,89.34139357301943,Drought
+Missouri,Daviess,89.24594336621062,Drought
+Montana,Chouteau,63.8880050906777,Drought
+Montana,Gallatin,58.57461024498886,Drought
+Montana,Pondera,56.06108813235762,Drought
+Montana,Yellowstone,55.29748647788737,Drought
+Montana,Toole,54.43843461660833,Drought
+Montana,Liberty,54.279350938593694,Drought
+Montana,Hill,53.92936684696151,Drought
+Montana,Big Horn,53.89755011135857,Drought
+Montana,Beaverhead,53.293032134902965,Drought
+Montana,Teton,52.87941457206491,Drought
+Nebraska,Harlan,95.13203945275215,Drought
+Nebraska,Furnas,94.59115494750239,Drought
+Nebraska,Hall,94.17753738466432,Drought
+Nebraska,Red Willow,93.92300349984093,Drought
+Nebraska,Buffalo,93.63665287941457,Drought
+Nebraska,Fillmore,92.84123448934139,Drought
+Nebraska,Franklin,92.45943366210629,Drought
+Nebraska,York,92.33216671969456,Drought
+Nebraska,Clay,91.63219853643017,Drought
+Nebraska,Gosper,91.44129812281261,Drought
+Nevada,Humboldt,99.33184855233853,Drought
+Nevada,Lyon,99.20458160992682,Drought
+Nevada,Churchill,98.98186446070632,Drought
+Nevada,Pershing,98.82278078269168,Drought
+Nevada,Lander,98.72733057588293,Drought
+Nevada,Esmeralda,98.28189627744196,Drought
+Nevada,Eureka,98.18644607063317,Drought
+Nevada,Lincoln,96.85014317531021,Drought
+Nevada,Washoe,96.40470887686925,Drought
+Nevada,Douglas,96.02290804963408,Drought
+New Hampshire,Merrimack,86.63697104677061,Drought
+New Hampshire,Rockingham,82.53261215399299,Drought
+New Hampshire,Hillsborough,82.46897868278714,Drought
+New Hampshire,Strafford,74.70569519567293,Drought
+New Hampshire,Belknap,42.50715876551065,Drought
+New Hampshire,Carroll,0.0,Drought
+New Hampshire,Cheshire,0.0,Drought
+New Hampshire,Coos,0.0,Drought
+New Hampshire,Grafton,0.0,Drought
+New Hampshire,Sullivan,0.0,Drought
+New Jersey,Atlantic,84.12344893413936,Drought
+New Jersey,Cumberland,81.57811008590518,Drought
+New Jersey,Middlesex,78.11008590518614,Drought
+New Jersey,Camden,78.01463569837735,Drought
+New Jersey,Gloucester,77.66465160674515,Drought
+New Jersey,Morris,75.97836461979,Drought
+New Jersey,Burlington,75.59656379255489,Drought
+New Jersey,Salem,75.50111358574611,Drought
+New Jersey,Cape May,75.21476296531976,Drought
+New Jersey,Mercer,74.41934457524657,Drought
+New Mexico,Doña Ana,99.23639834552976,Drought
+New Mexico,San Juan,99.01368119630925,Drought
+New Mexico,Luna,98.63188036907412,Drought
+New Mexico,Hidalgo,95.64110722239899,Drought
+New Mexico,Torrance,94.90932230353167,Drought
+New Mexico,Santa Fe,92.71396754692968,Drought
+New Mexico,Sandoval,91.53674832962136,Drought
+New Mexico,Socorro,89.9140948138721,Drought
+New Mexico,Otero,88.2914412981228,Drought
+New Mexico,Rio Arriba,88.03690741329939,Drought
+New York,Ontario,84.47343302577156,Drought
+New York,Livingston,80.81450843143494,Drought
+New York,Orange,79.44638880050907,Drought
+New York,Dutchess,70.25135221126313,Drought
+New York,Ulster,68.3423480750875,Drought
+New York,Seneca,64.77887368755965,Drought
+New York,Genesee,63.25167037861915,Drought
+New York,Yates,62.07445116131085,Drought
+New York,Schuyler,58.001909004136174,Drought
+New York,Wyoming,54.311167674196625,Drought
+North Carolina,Sampson,97.55011135857461,Drought
+North Carolina,Johnston,96.21380846325167,Drought
+North Carolina,Wilson,96.18199172764872,Drought
+North Carolina,Nash,96.05472478523703,Drought
+North Carolina,Robeson,95.06840598154629,Drought
+North Carolina,Harnett,93.31848552338528,Drought
+North Carolina,Duplin,92.90486796054724,Drought
+North Carolina,Rowan,92.74578428253261,Drought
+North Carolina,Halifax,92.17308304167992,Drought
+North Carolina,Wayne,91.05949729557749,Drought
+North Dakota,Ward,54.12026726057907,Drought
+North Dakota,Mountrail,52.84759783646198,Drought
+North Dakota,Bottineau,52.68851415844735,Drought
+North Dakota,McLean,52.08399618199173,Drought
+North Dakota,Williams,50.62042634425707,Drought
+North Dakota,Renville,50.11135857461024,Drought
+North Dakota,Cavalier,49.06140629971365,Drought
+North Dakota,Pembina,47.31148584155265,Drought
+North Dakota,Benson,47.27966910594973,Drought
+North Dakota,Walsh,46.64333439389119,Drought
+Ohio,Highland,57.3337575564747,Drought
+Ohio,Brown,53.80209990454979,Drought
+Ohio,Clinton,52.40216353802099,Drought
+Ohio,Butler,46.10244988864143,Drought
+Ohio,Adams,45.179764556156535,Drought
+Ohio,Warren,39.07095132039453,Drought
+Ohio,Ross,34.96659242761693,Drought
+Ohio,Fayette,33.598472796691055,Drought
+Ohio,Pike,32.26216990136812,Drought
+Ohio,Preble,32.230353165765194,Drought
+Oklahoma,Texas,96.5956092904868,Drought
+Oklahoma,Beaver,93.50938593700286,Drought
+Oklahoma,Cimarron,93.47756920139992,Drought
+Oklahoma,Wagoner,93.44575246579699,Drought
+Oklahoma,Cherokee,92.80941775373849,Drought
+Oklahoma,Jackson,89.18230989500478,Drought
+Oklahoma,Harmon,88.06872414890232,Drought
+Oklahoma,Sequoyah,86.8596881959911,Drought
+Oklahoma,Greer,86.22335348393256,Drought
+Oklahoma,Muskogee,85.90518612790328,Drought
+Oregon,Malheur,70.85587018771874,Drought
+Oregon,Klamath,67.2923958001909,Drought
+Oregon,Umatilla,67.06967865097042,Drought
+Oregon,Morrow,60.992682150811326,Drought
+Oregon,Lake,55.83837098313714,Drought
+Oregon,Jefferson,52.56124721603563,Drought
+Oregon,Wasco,50.87496022908049,Drought
+Oregon,Harney,50.5249761374483,Drought
+Oregon,Linn,47.375119312758514,Drought
+Oregon,Jackson,47.02513522112631,Drought
+Pennsylvania,Chester,99.07731466751513,Drought
+Pennsylvania,Berks,94.05027044225263,Drought
+Pennsylvania,Bucks,84.69615017499204,Drought
+Pennsylvania,York,83.61438116449253,Drought
+Pennsylvania,Adams,80.90995863824372,Drought
+Pennsylvania,Montgomery,76.86923321667197,Drought
+Pennsylvania,Lehigh,73.52847597836461,Drought
+Pennsylvania,Delaware,70.02863506204264,Drought
+Pennsylvania,Northampton,68.43779828189628,Drought
+Pennsylvania,Lancaster,67.48329621380846,Drought
+Rhode Island,Washington,72.63760738148267,Drought
+Rhode Island,Newport,68.6923321667197,Drought
+Rhode Island,Providence,60.9608654152084,Drought
+Rhode Island,Kent,46.134266624244354,Drought
+Rhode Island,Bristol,28.12599427298759,Drought
+South Carolina,Hampton,92.4912503977092,Drought
+South Carolina,Darlington,89.94591154947503,Drought
+South Carolina,Clarendon,87.40057270124085,Drought
+South Carolina,Allendale,87.30512249443207,Drought
+South Carolina,Florence,86.70060451797646,Drought
+South Carolina,Horry,86.44607063315304,Drought
+South Carolina,Marlboro,86.2869869551384,Drought
+South Carolina,Lee,85.30066815144765,Drought
+South Carolina,Bamberg,84.88705058860961,Drought
+South Carolina,Dillon,84.44161629016862,Drought
+South Dakota,Turner,52.91123130766784,Drought
+South Dakota,Union,52.11581291759465,Drought
+South Dakota,Lincoln,51.065860642698055,Drought
+South Dakota,Charles Mix,50.81132675787464,Drought
+South Dakota,Hutchinson,48.61597200127267,Drought
+South Dakota,Minnehaha,48.425071587655104,Drought
+South Dakota,Clay,47.62965319758193,Drought
+South Dakota,Sully,47.15240216353802,Drought
+South Dakota,McCook,46.99331848552338,Drought
+South Dakota,Bennett,45.24339802736239,Drought
+Tennessee,Weakley,90.80496341075404,Drought
+Tennessee,Henry,87.27330575882914,Drought
+Tennessee,Greene,77.44193445752465,Drought
+Tennessee,Obion,76.04199809099586,Drought
+Tennessee,Coffee,75.3738466433344,Drought
+Tennessee,Lake,74.32389436843779,Drought
+Tennessee,Cocke,74.29207763283488,Drought
+Tennessee,Washington,73.9739102768056,Drought
+Tennessee,Montgomery,71.17403754374801,Drought
+Tennessee,Shelby,69.67865097041044,Drought
+Texas,Floyd,99.45911549475024,Drought
+Texas,Lubbock,99.39548202354437,Drought
+Texas,Parmer,99.14094813872096,Drought
+Texas,Carson,98.69551384027999,Drought
+Texas,Hutchinson,98.37734648425072,Drought
+Texas,Collingsworth,98.15462933503024,Drought
+Texas,Wilbarger,97.93191218580972,Drought
+Texas,Hall,97.64556156538339,Drought
+Texas,Briscoe,97.51829462297168,Drought
+Texas,Hockley,97.48647788736876,Drought
+Utah,Millard,58.19280941775374,Drought
+Utah,Iron,56.85650652243079,Drought
+Utah,Utah,54.59751829462298,Drought
+Utah,Box Elder,53.070314985682465,Drought
+Utah,Juab,49.18867324212536,Drought
+Utah,Cache,48.902322621699014,Drought
+Utah,Uintah,48.26598790964047,Drought
+Utah,Duchesne,45.78428253261215,Drought
+Utah,Sanpete,45.338848234171174,Drought
+Utah,Sevier,44.25707922367165,Drought
+Vermont,Addison,0.0,Drought
+Vermont,Bennington,0.0,Drought
+Vermont,Caledonia,0.0,Drought
+Vermont,Chittenden,0.0,Drought
+Vermont,Essex,0.0,Drought
+Vermont,Franklin,0.0,Drought
+Vermont,Grand Isle,0.0,Drought
+Vermont,Lamoille,0.0,Drought
+Vermont,Orange,0.0,Drought
+Vermont,Orleans,0.0,Drought
+Virginia,Southampton,96.78650970410436,Drought
+Virginia,Essex,95.83200763601654,Drought
+Virginia,Isle of Wight,94.94113903913457,Drought
+Virginia,Suffolk,94.8456888323258,Drought
+Virginia,Hanover,94.30480432707604,Drought
+Virginia,Dinwiddie,93.25485205217944,Drought
+Virginia,Westmoreland,92.52306713331213,Drought
+Virginia,King William,91.3458479160038,Drought
+Virginia,King and Queen,91.21858097359213,Drought
+Virginia,Lunenburg,88.73687559656379,Drought
+Washington,Yakima,88.48234171174037,Drought
+Washington,Grant,83.67801463569837,Drought
+Washington,Benton,77.34648425071587,Drought
+Washington,Franklin,69.64683423480751,Drought
+Washington,Walla Walla,69.10594972955775,Drought
+Washington,Adams,59.81546293350302,Drought
+Washington,Whitman,58.860960865415215,Drought
+Washington,Okanogan,58.41552656697423,Drought
+Washington,Douglas,52.7521476296532,Drought
+Washington,Chelan,50.84314349347757,Drought
+West Virginia,Berkeley,67.10149538657333,Drought
+West Virginia,Morgan,64.4925230671333,Drought
+West Virginia,Jefferson,62.04263442570792,Drought
+West Virginia,Hampshire,46.80241807190582,Drought
+West Virginia,Mineral,38.27553293032135,Drought
+West Virginia,Cabell,37.03468024180719,Drought
+West Virginia,Wayne,33.0575882914413,Drought
+West Virginia,Hardy,27.998727330575885,Drought
+West Virginia,Grant,25.294304804327076,Drought
+West Virginia,Monroe,24.24435252943048,Drought
+Wisconsin,Buffalo,65.22430798600064,Drought
+Wisconsin,Pierce,64.46070633153039,Drought
+Wisconsin,Dunn,63.188036907413306,Drought
+Wisconsin,Barron,62.456251988545965,Drought
+Wisconsin,Pepin,57.11104040725422,Drought
+Wisconsin,Polk,54.91568565065224,Drought
+Wisconsin,St. Croix,44.288895959274576,Drought
+Wisconsin,Washburn,42.47534202990773,Drought
+Wisconsin,Burnett,41.90264078905505,Drought
+Wisconsin,Rock,39.58001909004136,Drought
+Wyoming,Big Horn,58.829144129812285,Drought
+Wyoming,Fremont,53.83391664015272,Drought
+Wyoming,Park,53.00668151447662,Drought
+Wyoming,Goshen,52.24307986000636,Drought
+Wyoming,Washakie,43.1434934775692,Drought
+Wyoming,Laramie,40.02545338848233,Drought
+Wyoming,Platte,38.784600699968195,Drought
+Wyoming,Sheridan,33.471205854279354,Drought
+Wyoming,Lincoln,32.93032134902959,Drought
+Wyoming,Converse,32.198536430162264,Drought
+Alabama,Mobile,94.94113903913457,Wildfire
+Alabama,Baldwin,92.65033407572383,Wildfire
+Alabama,Escambia,77.21921730830417,Wildfire
+Alabama,Washington,66.05154311167675,Wildfire
+Alabama,Jefferson,54.34298440979955,Wildfire
+Alabama,Madison,54.279350938593694,Wildfire
+Alabama,Covington,50.97041043588928,Wildfire
+Alabama,Houston,48.934139357301945,Wildfire
+Alabama,Clarke,48.87050588609609,Wildfire
+Alabama,Coffee,48.55233853006682,Wildfire
+Alaska,Fairbanks North Star,97.9000954502068,Wildfire
+Alaska,Kenai Peninsula,97.32739420935413,Wildfire
+Alaska,Southeast Fairbanks,96.46834234807508,Wildfire
+Alaska,Matanuska-Susitna,91.91854915685653,Wildfire
+Alaska,Yukon-Koyukuk,90.6458797327394,Wildfire
+Alaska,Denali,82.05536111994908,Wildfire
+Alaska,Anchorage,78.61915367483296,Wildfire
+Alaska,Bethel,78.39643652561249,Wildfire
+Alaska,Copper River,65.4152083996182,Wildfire
+Alaska,Northwest Arctic,65.16067451479478,Wildfire
+Arizona,Pima,99.74546611517657,Wildfire
+Arizona,Maricopa,99.71364937957365,Wildfire
+Arizona,Yavapai,99.61819917276488,Wildfire
+Arizona,Coconino,99.3000318167356,Wildfire
+Arizona,Gila,99.26821508113267,Wildfire
+Arizona,Mohave,99.07731466751513,Wildfire
+Arizona,Pinal,98.44097995545657,Wildfire
+Arizona,Navajo,98.15462933503024,Wildfire
+Arizona,Cochise,97.04104358892778,Wildfire
+Arizona,Santa Cruz,94.55933821189946,Wildfire
+Arkansas,Benton,97.2001272669424,Wildfire
+Arkansas,Washington,96.97741011772192,Wildfire
+Arkansas,Sebastian,93.41393573019408,Wildfire
+Arkansas,Crawford,91.21858097359213,Wildfire
+Arkansas,Polk,83.0098631880369,Wildfire
+Arkansas,Franklin,79.86000636334713,Wildfire
+Arkansas,Scott,73.6239261851734,Wildfire
+Arkansas,Pope,73.36939230034999,Wildfire
+Arkansas,Madison,72.16035634743875,Wildfire
+Arkansas,Stone,72.03308940502704,Wildfire
+California,San Diego,100.0,Wildfire
+California,Riverside,99.96818326439707,Wildfire
+California,San Bernardino,99.93636652879412,Wildfire
+California,Los Angeles,99.90454979319122,Wildfire
+California,Ventura,99.80909958638243,Wildfire
+California,Orange,99.77728285077951,Wildfire
+California,Kern,99.6500159083678,Wildfire
+California,Madera,99.55456570155901,Wildfire
+California,Santa Barbara,99.52274896595608,Wildfire
+California,Tuolumne,99.49093223035317,Wildfire
+Colorado,Jefferson,99.39548202354437,Wildfire
+Colorado,El Paso,98.18644607063317,Wildfire
+Colorado,La Plata,97.07286032453071,Wildfire
+Colorado,Boulder,96.7228762328985,Wildfire
+Colorado,Larimer,96.69105949729557,Wildfire
+Colorado,Teller,96.40470887686925,Wildfire
+Colorado,Douglas,96.1183582564429,Wildfire
+Colorado,Park,92.10944957047407,Wildfire
+Colorado,Clear Creek,90.80496341075404,Wildfire
+Colorado,Garfield,89.78682787146039,Wildfire
+Connecticut,Hartford,54.88386891504932,Wildfire
+Connecticut,Fairfield,44.670696786509716,Wildfire
+Connecticut,Litchfield,43.938911867642375,Wildfire
+Connecticut,New London,42.02990773146675,Wildfire
+Connecticut,New Haven,41.58447343302577,Wildfire
+Connecticut,Tolland,37.06649697741012,Wildfire
+Connecticut,Windham,32.834871142220805,Wildfire
+Connecticut,Middlesex,30.8304167992364,Wildfire
+Delaware,Sussex,87.90964047088768,Wildfire
+Delaware,Kent,76.83741648106904,Wildfire
+Delaware,New Castle,71.77855552020362,Wildfire
+District of Columbia,District of Columbia,47.02513522112631,Wildfire
+Florida,Orange,99.45911549475024,Wildfire
+Florida,Marion,99.20458160992682,Wildfire
+Florida,Polk,99.04549793191218,Wildfire
+Florida,Brevard,98.91823098950049,Wildfire
+Florida,Broward,98.85459751829461,Wildfire
+Florida,Miami-Dade,98.66369710467704,Wildfire
+Florida,Collier,98.4727966910595,Wildfire
+Florida,Lake,98.40916321985365,Wildfire
+Florida,Alachua,98.25007954183901,Wildfire
+Florida,Volusia,98.21826280623608,Wildfire
+Georgia,Chatham,95.83200763601654,Wildfire
+Georgia,Glynn,94.40025453388482,Wildfire
+Georgia,McIntosh,89.4368437798282,Wildfire
+Georgia,Camden,89.27776010181356,Wildfire
+Georgia,Bryan,87.20967228762329,Wildfire
+Georgia,Liberty,86.9869551384028,Wildfire
+Georgia,Pierce,83.51893095768375,Wildfire
+Georgia,Effingham,82.56442888959593,Wildfire
+Georgia,Ware,81.38720967228763,Wildfire
+Georgia,Charlton,78.5555202036271,Wildfire
+Hawaii,Honolulu,98.98186446070632,Wildfire
+Hawaii,Hawaii,98.82278078269168,Wildfire
+Hawaii,Maui,94.08208717785557,Wildfire
+Hawaii,Kauai,91.5685650652243,Wildfire
+Hawaii,Kalawao,6.076996500159083,Wildfire
+Idaho,Ada,99.10913140311804,Wildfire
+Idaho,Idaho,98.9500477251034,Wildfire
+Idaho,Elmore,98.50461342666244,Wildfire
+Idaho,Boise,97.2955774737512,Wildfire
+Idaho,Valley,97.00922685332485,Wildfire
+Idaho,Adams,96.3728921412663,Wildfire
+Idaho,Bannock,95.86382437161949,Wildfire
+Idaho,Gem,95.7683741648107,Wildfire
+Idaho,Owyhee,94.43207126948776,Wildfire
+Idaho,Washington,94.24117085587021,Wildfire
+Illinois,Will,70.18771874005726,Wildfire
+Illinois,Cook,60.73814826598791,Wildfire
+Illinois,Lake,59.05186127903277,Wildfire
+Illinois,McHenry,54.94750238625517,Wildfire
+Illinois,Winnebago,52.91123130766784,Wildfire
+Illinois,DuPage,52.81578110085905,Wildfire
+Illinois,Kane,49.63410754056633,Wildfire
+Illinois,Stephenson,47.78873687559656,Wildfire
+Illinois,Grundy,38.27553293032135,Wildfire
+Illinois,Champaign,37.671014953865736,Wildfire
+Indiana,Porter,69.48775055679288,Wildfire
+Indiana,Lake,69.36048361438117,Wildfire
+Indiana,Allen,59.62456251988546,Wildfire
+Indiana,Elkhart,56.25198854597518,Wildfire
+Indiana,Warrick,55.87018771874006,Wildfire
+Indiana,LaPorte,55.64747056951956,Wildfire
+Indiana,Monroe,53.4521158129176,Wildfire
+Indiana,Bartholomew,52.40216353802099,Wildfire
+Indiana,Tippecanoe,50.747693286668785,Wildfire
+Indiana,Spencer,49.984091632198535,Wildfire
+Iowa,Woodbury,81.45084314349347,Wildfire
+Iowa,Plymouth,69.64683423480751,Wildfire
+Iowa,Johnson,67.57874642061724,Wildfire
+Iowa,Polk,61.6608335984728,Wildfire
+Iowa,Warren,61.629016862869875,Wildfire
+Iowa,Decatur,60.29271396754693,Wildfire
+Iowa,Washington,59.97454661151765,Wildfire
+Iowa,Muscatine,59.910913140311806,Wildfire
+Iowa,Sioux,55.233853006681514,Wildfire
+Iowa,Linn,55.106586064269806,Wildfire
+Kansas,Reno,94.11390391345849,Wildfire
+Kansas,Butler,88.89595927457843,Wildfire
+Kansas,Pottawatomie,87.43238943684378,Wildfire
+Kansas,Cowley,86.82787146038817,Wildfire
+Kansas,Chautauqua,86.25517021953547,Wildfire
+Kansas,Riley,85.74610244988864,Wildfire
+Kansas,Wabaunsee,83.32803054406618,Wildfire
+Kansas,Saline,82.53261215399299,Wildfire
+Kansas,Lyon,81.51447661469933,Wildfire
+Kansas,Greenwood,80.8781419026408,Wildfire
+Kentucky,Pike,94.27298759147313,Wildfire
+Kentucky,Laurel,91.44129812281261,Wildfire
+Kentucky,Floyd,91.40948138720967,Wildfire
+Kentucky,Clay,91.15494750238624,Wildfire
+Kentucky,Magoffin,89.72319440025454,Wildfire
+Kentucky,Whitley,89.53229398663697,Wildfire
+Kentucky,Jackson,87.55965637925549,Wildfire
+Kentucky,Knox,86.76423798918232,Wildfire
+Kentucky,Perry,85.14158447343303,Wildfire
+Kentucky,Johnson,83.8052815781101,Wildfire
+Louisiana,Calcasieu,94.78205536111997,Wildfire
+Louisiana,Cameron,92.71396754692968,Wildfire
+Louisiana,Beauregard,88.73687559656379,Wildfire
+Louisiana,St. Tammany,88.57779191854915,Wildfire
+Louisiana,Vernon,83.61438116449253,Wildfire
+Louisiana,Allen,79.76455615653833,Wildfire
+Louisiana,Jefferson Davis,79.66910594972956,Wildfire
+Louisiana,Washington,78.74642061724467,Wildfire
+Louisiana,Rapides,75.66019726376074,Wildfire
+Louisiana,Evangeline,75.27839643652561,Wildfire
+Maine,Cumberland,63.569837734648424,Wildfire
+Maine,York,63.37893732103086,Wildfire
+Maine,Kennebec,57.11104040725422,Wildfire
+Maine,Penobscot,51.47947820553611,Wildfire
+Maine,Androscoggin,49.506840598154625,Wildfire
+Maine,Oxford,47.82055361119949,Wildfire
+Maine,Somerset,47.15240216353802,Wildfire
+Maine,Lincoln,43.01622653515749,Wildfire
+Maine,Waldo,42.06172446706968,Wildfire
+Maine,Aroostook,41.90264078905505,Wildfire
+Maryland,Somerset,90.07317849188672,Wildfire
+Maryland,Wicomico,87.05058860960865,Wildfire
+Maryland,Dorchester,86.66878778237354,Wildfire
+Maryland,Talbot,77.82373528475979,Wildfire
+Maryland,Caroline,75.53293032134903,Wildfire
+Maryland,Worcester,74.64206172446707,Wildfire
+Maryland,Queen Anne's,72.12853961183583,Wildfire
+Maryland,Anne Arundel,54.08845052497614,Wildfire
+Maryland,Baltimore,52.14762965319758,Wildfire
+Maryland,St. Mary's,48.83868915049316,Wildfire
+Massachusetts,Middlesex,78.93732103086222,Wildfire
+Massachusetts,Worcester,72.00127266942413,Wildfire
+Massachusetts,Plymouth,69.01049952274897,Wildfire
+Massachusetts,Essex,64.93795736557429,Wildfire
+Massachusetts,Norfolk,63.95163856188355,Wildfire
+Massachusetts,Franklin,58.32007636016545,Wildfire
+Massachusetts,Barnstable,57.84282532612154,Wildfire
+Massachusetts,Hampshire,55.20203627107859,Wildfire
+Massachusetts,Bristol,53.48393254852052,Wildfire
+Massachusetts,Hampden,50.68405981546293,Wildfire
+Michigan,Oscoda,82.75532930321349,Wildfire
+Michigan,Crawford,82.62806236080178,Wildfire
+Michigan,Roscommon,78.49188673242125,Wildfire
+Michigan,Oakland,73.24212535793828,Wildfire
+Michigan,Chippewa,71.9694559338212,Wildfire
+Michigan,Montmorency,71.33312122176265,Wildfire
+Michigan,Kalkaska,70.8240534521158,Wildfire
+Michigan,Ogemaw,70.63315303849825,Wildfire
+Michigan,Iosco,69.07413299395482,Wildfire
+Michigan,Otsego,66.17881005408846,Wildfire
+Minnesota,Roseau,96.24562519885461,Wildfire
+Minnesota,Anoka,92.90486796054724,Wildfire
+Minnesota,Marshall,91.95036589245944,Wildfire
+Minnesota,Polk,91.66401527203308,Wildfire
+Minnesota,Beltrami,91.37766465160675,Wildfire
+Minnesota,Sherburne,90.74132993954821,Wildfire
+Minnesota,Pennington,90.35952911231307,Wildfire
+Minnesota,Kittson,87.49602290804964,Wildfire
+Minnesota,Morrison,87.01877187400572,Wildfire
+Minnesota,St. Louis,86.12790327712376,Wildfire
+Mississippi,Jackson,96.43652561247217,Wildfire
+Mississippi,Harrison,96.34107540566336,Wildfire
+Mississippi,Hancock,90.67769646834235,Wildfire
+Mississippi,Pearl River,88.70505886096086,Wildfire
+Mississippi,Stone,85.87336939230035,Wildfire
+Mississippi,George,84.69615017499204,Wildfire
+Mississippi,Forrest,82.43716194718422,Wildfire
+Mississippi,Lamar,80.6554247534203,Wildfire
+Mississippi,Perry,75.1511294941139,Wildfire
+Mississippi,Greene,75.05567928730513,Wildfire
+Missouri,Camden,86.54152083996182,Wildfire
+Missouri,Newton,85.77791918549157,Wildfire
+Missouri,Laclede,84.56888323258033,Wildfire
+Missouri,McDonald,83.86891504931596,Wildfire
+Missouri,Christian,82.15081132675788,Wildfire
+Missouri,Howell,82.02354438434617,Wildfire
+Missouri,Dallas,81.80082723512567,Wildfire
+Missouri,Webster,81.3553929366847,Wildfire
+Missouri,Greene,81.29175946547885,Wildfire
+Missouri,Polk,80.62360801781738,Wildfire
+Montana,Ravalli,99.68183264397072,Wildfire
+Montana,Missoula,95.54565701559021,Wildfire
+Montana,Flathead,94.1457206490614,Wildfire
+Montana,Lincoln,92.20489977728286,Wildfire
+Montana,Gallatin,89.62774419344576,Wildfire
+Montana,Yellowstone,89.05504295259307,Wildfire
+Montana,Lewis and Clark,88.95959274578428,Wildfire
+Montana,Lake,88.48234171174037,Wildfire
+Montana,Park,87.71874005727013,Wildfire
+Montana,Carbon,85.90518612790328,Wildfire
+Nebraska,Cherry,84.50524976137446,Wildfire
+Nebraska,Sheridan,79.89182309895004,Wildfire
+Nebraska,Dawes,77.85555202036271,Wildfire
+Nebraska,Knox,71.07858733693922,Wildfire
+Nebraska,Lancaster,68.66051543111676,Wildfire
+Nebraska,Lincoln,68.50143175310212,Wildfire
+Nebraska,Grant,68.18326439707286,Wildfire
+Nebraska,Sioux,67.92873051224944,Wildfire
+Nebraska,Holt,66.49697741011772,Wildfire
+Nebraska,Washington,65.98790964047089,Wildfire
+Nevada,Elko,99.84091632198536,Wildfire
+Nevada,Clark,99.36366528794144,Wildfire
+Nevada,Humboldt,97.83646197900096,Wildfire
+Nevada,Washoe,97.64556156538339,Wildfire
+Nevada,Douglas,95.57747375119312,Wildfire
+Nevada,Lyon,95.00477251034044,Wildfire
+Nevada,Storey,93.5412026726058,Wildfire
+Nevada,Lander,92.55488386891504,Wildfire
+Nevada,Eureka,92.30034998409165,Wildfire
+Nevada,Carson City,87.17785555202036,Wildfire
+New Hampshire,Hillsborough,78.96913776646515,Wildfire
+New Hampshire,Rockingham,62.80623608017817,Wildfire
+New Hampshire,Merrimack,54.66115176582883,Wildfire
+New Hampshire,Grafton,52.59306395163856,Wildfire
+New Hampshire,Carroll,51.7021953547566,Wildfire
+New Hampshire,Cheshire,50.58860960865415,Wildfire
+New Hampshire,Strafford,48.0750874960229,Wildfire
+New Hampshire,Belknap,47.375119312758514,Wildfire
+New Hampshire,Sullivan,35.793827553293035,Wildfire
+New Hampshire,Coos,35.57111040407254,Wildfire
+New Jersey,Atlantic,96.5956092904868,Wildfire
+New Jersey,Ocean,95.73655742920776,Wildfire
+New Jersey,Burlington,95.16385618835508,Wildfire
+New Jersey,Cape May,90.61406299713649,Wildfire
+New Jersey,Monmouth,90.51861279032771,Wildfire
+New Jersey,Cumberland,89.85046134266625,Wildfire
+New Jersey,Camden,89.24594336621062,Wildfire
+New Jersey,Gloucester,85.30066815144765,Wildfire
+New Jersey,Middlesex,82.27807826916958,Wildfire
+New Jersey,Mercer,79.22367165128857,Wildfire
+New Mexico,Roosevelt,98.72733057588293,Wildfire
+New Mexico,Lincoln,98.53643016226535,Wildfire
+New Mexico,Otero,98.37734648425072,Wildfire
+New Mexico,Santa Fe,98.28189627744196,Wildfire
+New Mexico,Lea,97.58192809417754,Wildfire
+New Mexico,Colfax,97.4228444161629,Wildfire
+New Mexico,Grant,96.62742602608972,Wildfire
+New Mexico,San Miguel,96.1501749920458,Wildfire
+New Mexico,Taos,95.89564110722239,Wildfire
+New Mexico,Rio Arriba,95.60929048679604,Wildfire
+New York,Suffolk,70.85587018771874,Wildfire
+New York,Erie,70.56951956729239,Wildfire
+New York,Dutchess,70.53770283168946,Wildfire
+New York,Monroe,60.83359847279669,Wildfire
+New York,Orange,60.32453070314986,Wildfire
+New York,Ulster,58.829144129812285,Wildfire
+New York,Westchester,57.6837416481069,Wildfire
+New York,Nassau,57.65192491250398,Wildfire
+New York,Onondaga,57.46102449888642,Wildfire
+New York,Wayne,56.44288895959274,Wildfire
+North Carolina,Brunswick,94.71842188991408,Wildfire
+North Carolina,Pender,93.7002863506204,Wildfire
+North Carolina,Onslow,93.19121858097358,Wildfire
+North Carolina,Carteret,92.6185173401209,Wildfire
+North Carolina,New Hanover,90.42316258351893,Wildfire
+North Carolina,Craven,89.50047725103404,Wildfire
+North Carolina,Bladen,85.68246897868278,Wildfire
+North Carolina,Pamlico,84.75978364619789,Wildfire
+North Carolina,Dare,82.8825962456252,Wildfire
+North Carolina,Cumberland,81.92809417753737,Wildfire
+North Dakota,Rolette,94.59115494750239,Wildfire
+North Dakota,Emmons,91.53674832962136,Wildfire
+North Dakota,McHenry,88.76869233216672,Wildfire
+North Dakota,Burleigh,83.9325485205218,Wildfire
+North Dakota,Ward,82.21444479796372,Wildfire
+North Dakota,Bottineau,81.06904231625836,Wildfire
+North Dakota,Ramsey,79.79637289214126,Wildfire
+North Dakota,Benson,77.98281896277442,Wildfire
+North Dakota,Walsh,77.88736875596564,Wildfire
+North Dakota,Dunn,76.10563156220171,Wildfire
+Ohio,Adams,77.9510022271715,Wildfire
+Ohio,Highland,76.51924912503976,Wildfire
+Ohio,Brown,74.26026089723193,Wildfire
+Ohio,Lawrence,69.90136811963093,Wildfire
+Ohio,Ross,67.99236398345529,Wildfire
+Ohio,Cuyahoga,67.45147947820553,Wildfire
+Ohio,Clermont,64.42888959592746,Wildfire
+Ohio,Hamilton,64.17435571110404,Wildfire
+Ohio,Summit,64.1107222398982,Wildfire
+Ohio,Montgomery,62.61533566656061,Wildfire
+Oklahoma,Le Flore,96.65924276169264,Wildfire
+Oklahoma,Cherokee,96.56379255488386,Wildfire
+Oklahoma,Pittsburg,96.02290804963408,Wildfire
+Oklahoma,Sequoyah,95.99109131403118,Wildfire
+Oklahoma,Osage,94.68660515431117,Wildfire
+Oklahoma,Tulsa,94.20935412026726,Wildfire
+Oklahoma,Creek,94.01845370664968,Wildfire
+Oklahoma,Adair,93.98663697104676,Wildfire
+Oklahoma,Delaware,93.35030225898822,Wildfire
+Oklahoma,Haskell,93.25485205217944,Wildfire
+Oregon,Wasco,98.63188036907412,Wildfire
+Oregon,Deschutes,98.1228125994273,Wildfire
+Oregon,Josephine,97.35921094495704,Wildfire
+Oregon,Jackson,96.500159083678,Wildfire
+Oregon,Jefferson,95.35475660197265,Wildfire
+Oregon,Baker,95.10022271714922,Wildfire
+Oregon,Umatilla,95.06840598154629,Wildfire
+Oregon,Crook,93.92300349984093,Wildfire
+Oregon,Harney,92.14126630607699,Wildfire
+Oregon,Morrow,91.63219853643017,Wildfire
+Pennsylvania,Pike,81.9599109131403,Wildfire
+Pennsylvania,Allegheny,72.89214126630608,Wildfire
+Pennsylvania,Bucks,68.40598154629335,Wildfire
+Pennsylvania,Westmoreland,63.092586700604514,Wildfire
+Pennsylvania,Washington,59.0836780146357,Wildfire
+Pennsylvania,Monroe,57.71555838370983,Wildfire
+Pennsylvania,York,56.98377346484249,Wildfire
+Pennsylvania,Butler,56.66560610881323,Wildfire
+Pennsylvania,Lancaster,54.470251352211264,Wildfire
+Pennsylvania,Cumberland,53.38848234171174,Wildfire
+Rhode Island,Washington,41.648106904231625,Wildfire
+Rhode Island,Providence,37.73464842507159,Wildfire
+Rhode Island,Kent,34.01209035952911,Wildfire
+Rhode Island,Newport,31.81673560292714,Wildfire
+Rhode Island,Bristol,9.735921094495705,Wildfire
+South Carolina,Charleston,93.6684696150175,Wildfire
+South Carolina,Georgetown,93.60483614381165,Wildfire
+South Carolina,Horry,93.31848552338528,Wildfire
+South Carolina,Berkeley,90.93223035316576,Wildfire
+South Carolina,Beaufort,89.5641107222399,Wildfire
+South Carolina,Williamsburg,83.55074769328667,Wildfire
+South Carolina,Dorchester,78.04645243398028,Wildfire
+South Carolina,Florence,75.2465797009227,Wildfire
+South Carolina,Jasper,74.67387846007,Wildfire
+South Carolina,Colleton,71.30130448615972,Wildfire
+South Dakota,Pennington,97.70919503658925,Wildfire
+South Dakota,Meade,96.85014317531021,Wildfire
+South Dakota,Custer,96.05472478523703,Wildfire
+South Dakota,Oglala Lakota,95.4183900731785,Wildfire
+South Dakota,Lawrence,93.57301940820871,Wildfire
+South Dakota,Fall River,92.23671651288576,Wildfire
+South Dakota,Todd,89.46866051543113,Wildfire
+South Dakota,Butte,86.73242125357939,Wildfire
+South Dakota,Hughes,80.90995863824372,Wildfire
+South Dakota,Bennett,80.55997454661151,Wildfire
+Tennessee,Claiborne,86.5097041043589,Wildfire
+Tennessee,Campbell,83.99618199172765,Wildfire
+Tennessee,Scott,73.56029271396754,Wildfire
+Tennessee,Cumberland,73.52847597836461,Wildfire
+Tennessee,Davidson,72.22398981864461,Wildfire
+Tennessee,Fentress,72.0967228762329,Wildfire
+Tennessee,Morgan,69.58320076360165,Wildfire
+Tennessee,Shelby,63.34712058542793,Wildfire
+Tennessee,Rutherford,62.869869551384035,Wildfire
+Tennessee,Williamson,61.50174992045816,Wildfire
+Texas,Midland,97.96372892141267,Wildfire
+Texas,Parker,97.93191218580972,Wildfire
+Texas,Denton,97.51829462297168,Wildfire
+Texas,Erath,97.45466115176583,Wildfire
+Texas,Wise,97.10467706013364,Wildfire
+Texas,Gaines,96.94559338211901,Wildfire
+Texas,Tom Green,96.53197581928094,Wildfire
+Texas,Randall,96.21380846325167,Wildfire
+Texas,Jefferson,95.8001909004136,Wildfire
+Texas,Johnson,95.70474069360485,Wildfire
+Utah,Washington,99.87273305758829,Wildfire
+Utah,Utah,99.58638243716196,Wildfire
+Utah,Salt Lake,99.23639834552976,Wildfire
+Utah,Iron,98.88641425389754,Wildfire
+Utah,Tooele,98.02736239261853,Wildfire
+Utah,Summit,97.16831053133949,Wildfire
+Utah,Box Elder,94.97295577473751,Wildfire
+Utah,Weber,93.38211899459117,Wildfire
+Utah,Wasatch,92.96850143175308,Wildfire
+Utah,Juab,92.45943366210629,Wildfire
+Vermont,Chittenden,50.36589245943367,Wildfire
+Vermont,Windsor,49.220489977728285,Wildfire
+Vermont,Addison,44.416162901686285,Wildfire
+Vermont,Washington,43.238943684377986,Wildfire
+Vermont,Rutland,42.60260897231944,Wildfire
+Vermont,Windham,41.807190582246264,Wildfire
+Vermont,Orleans,41.71174037543748,Wildfire
+Vermont,Caledonia,40.120903595291125,Wildfire
+Vermont,Lamoille,39.42093541202672,Wildfire
+Vermont,Orange,38.880050906776965,Wildfire
+Virginia,Wise,93.12758510976772,Wildfire
+Virginia,Dickenson,90.26407890550429,Wildfire
+Virginia,Accomack,85.65065224307986,Wildfire
+Virginia,Lee,83.64619790009546,Wildfire
+Virginia,Augusta,78.65097041043589,Wildfire
+Virginia,Bedford,76.04199809099586,Wildfire
+Virginia,Frederick,75.46929685014318,Wildfire
+Virginia,Buchanan,75.21476296531976,Wildfire
+Virginia,Shenandoah,74.51479478205536,Wildfire
+Virginia,Albemarle,74.16481069042317,Wildfire
+Washington,Chelan,99.17276487432389,Wildfire
+Washington,Okanogan,99.01368119630925,Wildfire
+Washington,Yakima,98.6000636334712,Wildfire
+Washington,Kittitas,98.56824689786829,Wildfire
+Washington,Klickitat,96.75469296850144,Wildfire
+Washington,Ferry,96.27744193445751,Wildfire
+Washington,Benton,96.08654152083997,Wildfire
+Washington,Spokane,94.65478841870824,Wildfire
+Washington,Grant,94.52752147629653,Wildfire
+Washington,Stevens,93.76391982182629,Wildfire
+West Virginia,Logan,86.89150493159403,Wildfire
+West Virginia,Wayne,85.07795100222717,Wildfire
+West Virginia,Mingo,84.37798281896278,Wildfire
+West Virginia,Raleigh,82.24626153356665,Wildfire
+West Virginia,Cabell,80.97359210944957,Wildfire
+West Virginia,Wyoming,80.2099904549793,Wildfire
+West Virginia,Boone,78.36461979000956,Wildfire
+West Virginia,Lincoln,78.26916958320076,Wildfire
+West Virginia,McDowell,74.80114540248171,Wildfire
+West Virginia,Mercer,71.36493795736557,Wildfire
+Wisconsin,Burnett,73.91027680559975,Wildfire
+Wisconsin,Dane,73.05122494432071,Wildfire
+Wisconsin,Washington,70.2195354756602,Wildfire
+Wisconsin,St. Croix,68.94686605154311,Wildfire
+Wisconsin,Waukesha,68.78778237352847,Wildfire
+Wisconsin,Fond du Lac,67.73783009863187,Wildfire
+Wisconsin,Waushara,67.48329621380846,Wildfire
+Wisconsin,Dodge,66.2424435252943,Wildfire
+Wisconsin,Polk,64.77887368755965,Wildfire
+Wisconsin,Columbia,63.25167037861915,Wildfire
+Wyoming,Fremont,91.28221444479797,Wildfire
+Wyoming,Natrona,90.20044543429844,Wildfire
+Wyoming,Campbell,90.16862869869551,Wildfire
+Wyoming,Teton,88.35507476932867,Wildfire
+Wyoming,Converse,86.79605472478524,Wildfire
+Wyoming,Sublette,86.47788736875597,Wildfire
+Wyoming,Sheridan,86.00063633471204,Wildfire
+Wyoming,Uinta,85.96881959910914,Wildfire
+Wyoming,Weston,85.55520203627108,Wildfire
+Wyoming,Crook,83.2325803372574,Wildfire

@@ -1,0 +1,17 @@
+numpy
+pandas
+requests
+langchain
+langchain-community
+openai
+tiktoken
+sentence-transformers
+scikit-learn
+scipy
+tqdm
+torch
+transformers
+accelerate
+safetensors
+bitsandbytes
+google-generativeai
