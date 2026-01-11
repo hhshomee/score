@@ -4,7 +4,7 @@ We propose a multi-dimensional, reference-free evaluation framework that  assess
  We introduce a curated dataset of 1,412 domain-specific question–answer pairs spanning 40 professional roles and seven natural hazard types to support systematic evaluation .
 
 
-<img width="2168" alt="main_fig" src="https://github.com/hhshomee/score/">
+<img width="2168" alt="main_fig" src="[https://github.com/hhshomee/score/](https://github.com/hhshomee/score/blob/main/specificity.pdf)">
 
 ## Data
 :green_book: Questions, Answers, and all the specificity results can be viewed and downloaded [here](https://huggingface.co/datasets/AI4Patents/IMPACT/tree/main).
