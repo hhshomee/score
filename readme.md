@@ -6,6 +6,11 @@ We propose a multi-dimensional, reference-free evaluation framework that  assess
 
 <img width="2168" alt="main_fig" src="./specificity.jpg">
 
+
+
+![main_fig](./specificity.jpg)
+
+
 ## Data
 :green_book: Questions, Answers, and all the specificity results can be viewed and downloaded [here](https://github.com/hhshomee/score/tree/main/results).
 
